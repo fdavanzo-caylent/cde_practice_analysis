@@ -1,6 +1,6 @@
 .env
 venv
-output/**/*
+output/**/**/*
 .vscode
 .pytest_cache
 .DS_Store
