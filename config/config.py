@@ -6,13 +6,19 @@ PASSWORD = os.getenv("SALESFORCE_PWD")
 SECURITY_TOKEN = os.getenv("SALESFORCE_TOKEN")
 
 # Salesforce report ID
-HEATMAP_SKILLS_REPORT_ID = '00OTP000001Ql9B2AS'
+HEATMAP_SKILLS_REPORT_ID = '00OTP000002ESJR2A4'#'00OTP000001Ql9B2AS'#
 ACTIVE_ENGAGEMENTS_REPORT_ID = '00OTP000001JUbJ2AW'
 FUTURE_ENGAGEMENTS_REPORT_ID = '00OTP000001Q2FJ2A0'
 ALL_CAYLENT_SKILLS_REPORT_ID = '00OTP000001nWWM2A2'
+SKILLS_COUNTS_REPORT_ID = '00OTP000002Dk2H2AS'
+TEAM_MEMBER_REPORT_ID = '00OTP000002Ek6f2AC'
 
-# Path to the core skills CSV file
+# Path to CSV files
 CORE_SKILLS_PATH = 'data/core_skills.csv'
+SKILLS_RATINGS_PATH = 'data/skills_ratings.csv'
+
+# report-specific filters
+FILTER_FOR_SKILL_LEVEL_ZERO = '0 - No Rating'
 
 # MAP Phases
 MAP_ASSESS = 'Assess'
@@ -26,6 +32,7 @@ FILENAME_ACTIVE_ENGAGEMENTS_SUBTYPES = 'active_engagements_subtypes.png'
 FILENAME_MAP_ASSESS_ENGAGEMENTS = 'active_map_assess_engagements_table.png'
 FILENAME_MAP_MOB_AND_MIG_ENGAGEMENTS = 'active_map_mob_and_mig_engagements_table.png'
 FILENAME_CORE_SKILLS = 'core_skills_heatmap.png'
+FILENAME_SKILLS_COUNT = 'skills_count_bar_chart.png'
 FILENAME_FUTURE_ENGAGEMENTS = 'future_engagements_table.png'
 FILENAME_FUTURE_MAP_ENGAGEMENTS = 'future_map_engagements_table.png'
 FILENAME_FUTURE_MAP_ENGAGEMENTS_SUBTYPES = 'future_map_engagements_subtypes.png'

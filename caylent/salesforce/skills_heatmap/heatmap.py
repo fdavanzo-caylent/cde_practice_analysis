@@ -5,11 +5,13 @@ import logging
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def generate_heatmap(pivot_percentages, show_plot, output_path):
+def generate_heatmap(pivot_percentages_df, show_plot, output_path):
     try:
+
+        # pivot_percentages_small = pivot_percentages.head(5)
         # Create the heat map
         plt.figure(figsize=(30, 10))
-        sns.heatmap(pivot_percentages, annot=True, fmt=".1f", cmap='coolwarm', cbar_kws={'label': 'Percentage of Engineers'})
+        sns.heatmap(pivot_percentages_df, annot=True, fmt=".1f", cmap='coolwarm', cbar_kws={'label': 'Percentage of Engineers'})
         plt.title('Distribution of Skill Levels Across Core Skills (Percentage of Engineers)')
         plt.xlabel('Skill')
         plt.ylabel('Skill Level')

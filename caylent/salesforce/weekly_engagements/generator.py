@@ -17,7 +17,7 @@ def generate(sf, output_path, show_plot=True):
     # Active Engagements
     try:
         # Fetch the Salesforce report
-        active_engagements_report_data = fetch_salesforce_report(sf, ACTIVE_ENGAGEMENTS_REPORT_ID)
+        active_engagements_report_data = fetch_salesforce_report(sf, ACTIVE_ENGAGEMENTS_REPORT_ID, True)
         logging.info("Salesforce report fetched successfully")
 
         # Convert the report data to a DataFrame
@@ -39,7 +39,7 @@ def generate(sf, output_path, show_plot=True):
     # Future Engagements
     try:
         # Fetch the Salesforce report
-        future_engagements_report_data = fetch_salesforce_report(sf, FUTURE_ENGAGEMENTS_REPORT_ID)
+        future_engagements_report_data = fetch_salesforce_report(sf, FUTURE_ENGAGEMENTS_REPORT_ID, True)
         logging.info("Salesforce report fetched successfully")
 
         # Convert the report data to a DataFrame

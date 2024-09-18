@@ -12,9 +12,9 @@ def authenticate_salesforce(username, password, security_token):
         logging.error("Error authenticating with Salesforce: %s", e)
         raise
 
-def fetch_salesforce_report(sf, report_id):
+def fetch_salesforce_report(sf, report_id, includeDetails):
     try:
-        report = sf.restful('analytics/reports/{}'.format(report_id))
+        report = sf.restful('analytics/reports/{}?includeDetails={}'.format(report_id, includeDetails))
         return report
     except Exception as e:
         logging.error("Error fetching Salesforce report: %s", e)
