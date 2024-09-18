@@ -14,7 +14,7 @@ def main(username, password, security_token, core_skills_path, output_path, show
     logging.info("Authenticated with Salesforce successfully")
     
     generator_factory.getGenerator('SKILLS_HEATMAP').generate(sf, core_skills_path, output_path, False)
-    # generator_factory.getGenerator('WEEKLY_ENGAGEMENTS').generate(sf, output_path, show_plot)
+    generator_factory.getGenerator('WEEKLY_ENGAGEMENTS').generate(sf, output_path, False)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Generate analysis from Salesforce report data.')

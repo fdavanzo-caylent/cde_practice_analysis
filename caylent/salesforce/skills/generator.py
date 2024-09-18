@@ -5,8 +5,6 @@ from .heatmap import generate_heatmap
 from .bar import generate_barchart
 import logging
 import pandas as pd
-import math
-
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -56,7 +54,7 @@ def generate(sf, core_skills_path, output_path, show_plot=False):
             '1-10': skill_counts['count_1_to_10_skills'],
             '11-20': skill_counts['count_11_to_20_skills'],
             '20+': skill_counts['count_20_plus_skills']
-        }, show_plot, FILENAME_SKILLS_COUNT)
+        }, show_plot, output_path + FILENAME_SKILLS_COUNT)
 
     except Exception as e:
         logging.error("Error processing active engagements: %s", e)

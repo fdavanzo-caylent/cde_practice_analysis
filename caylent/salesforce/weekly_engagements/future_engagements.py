@@ -1,5 +1,5 @@
 import logging
-from config.config import FILENAME_FUTURE_ENGAGEMENTS, FILENAME_FUTURE_MAP_ENGAGEMENTS_SUBTYPES
+from config.config import FILENAME_FUTURE_ENGAGEMENTS, FILENAME_FUTURE_ENGAGEMENTS_SUBTYPES
 from .table import generate_table
 from .donut import generate_donut
 
@@ -75,4 +75,4 @@ def process_future_engagements_subtypes(future_accounts_df, output_path, show_pl
     labels = list(subtype_counts.keys())
     values = list(subtype_counts.values())
 
-    generate_donut(labels, values, output_path + FILENAME_FUTURE_MAP_ENGAGEMENTS_SUBTYPES, show_plot)
+    generate_donut(labels, values, output_path + FILENAME_FUTURE_ENGAGEMENTS_SUBTYPES, show_plot)

@@ -1,4 +1,4 @@
-from caylent.salesforce.skills_heatmap import generator as skills_heatmap_generator
+from caylent.salesforce.skills import generator as skills_heatmap_generator
 from caylent.salesforce.weekly_engagements import generator as weekly_engagements_generator
 from caylent.jira.work_in_progress import generator as wip_generator
 from caylent.jira.time_in_status import generator as tis_generator
