@@ -1,4 +1,5 @@
 from caylent.common.salesforce_integration import query_all_salesforce
+from .utils import get_skill_mappings
 from config.config import FILENAME_CROSS_TRAINING_CSV
 import logging
 import pandas as pd
@@ -7,11 +8,13 @@ import numpy as np
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def generate(sf, output_path, show_plot=False):
+def generate(sf, output_path, mappings_path, show_plot=False):
     report_data = None
     try:
         df = pd.read_csv(f"{output_path}{FILENAME_CROSS_TRAINING_CSV}")
         print(df)
+
+        print(get_skill_mappings(mappings_path))
         # query = """
         #     SELECT
         #         pse__Skill_Certification__r.pse__Group__c,

@@ -16,6 +16,7 @@ TEAM_MEMBER_REPORT_ID = '00OTP000002Ek6f2AC'
 # Path to CSV files
 CORE_SKILLS_PATH = 'data/core_skills.csv'
 SKILLS_RATINGS_PATH = 'data/skills_ratings.csv'
+CROSS_TRAINING_MAPPING_PATH = 'data/cross_training_mappings.csv'
 
 # report-specific filters
 FILTER_FOR_SKILL_LEVEL_ZERO = '0 - No Rating'
