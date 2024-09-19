@@ -20,6 +20,23 @@ def fetch_salesforce_report(sf, report_id, includeDetails):
         logging.error("Error fetching Salesforce report: %s", e)
         raise
 
+def query_salesforce(sf, query):
+    try:
+        report = sf.query(query)
+        return report
+    except Exception as e:
+        logging.error("Error fetching Salesforce report: %s", e)
+        raise
+
+def query_all_salesforce(sf, query):
+    try:
+        report = sf.query_all(query)
+        return report
+    except Exception as e:
+        logging.error("Error fetching Salesforce report: %s", e)
+        raise
+
+
 def report_to_dataframe(report_data, header_replacement_map):
     try:
         # logging.debug(f"Detail Columns: {report_data['reportMetadata']['detailColumns']}")

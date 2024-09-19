@@ -4,6 +4,8 @@ venv
 !/output/jira_analysis/**/
 /output/weekly_status/*
 !/output/weekly_status/
+/output/cross_training_initiative/*
+!/output/cross_training_initiative/
 .vscode
 .pytest_cache
 .DS_Store

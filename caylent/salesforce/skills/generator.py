@@ -13,13 +13,13 @@ def generate(sf, core_skills_path, output_path, show_plot=False):
     report_data = None
     try:
         # Fetch the team member list for calculating percentages
-        future_engagements_report_data = fetch_salesforce_report(sf, TEAM_MEMBER_REPORT_ID, True)
+        team_member_report = fetch_salesforce_report(sf, TEAM_MEMBER_REPORT_ID, True)
         logging.info("Salesforce report for Team List fetched successfully")
 
-        team_count = future_engagements_report_data['factMap']['T!T']['aggregates'][0]['value']
+        team_count = team_member_report['factMap']['T!T']['aggregates'][0]['value']
 
         # Fetch the Salesforce report
-        report_data = fetch_salesforce_report(sf, HEATMAP_SKILLS_REPORT_ID, False)
+        report_data = fetch_salesforce_report(sf, HEATMAP_SKILLS_REPORT_ID, True)
         logging.info("Salesforce report fetched successfully")
 
         # Get our list of core skills to filter by
@@ -40,7 +40,7 @@ def generate(sf, core_skills_path, output_path, show_plot=False):
     
     try:
         # Fetch the Salesforce report
-        report_data = fetch_salesforce_report(sf, SKILLS_COUNTS_REPORT_ID, False)
+        report_data = fetch_salesforce_report(sf, SKILLS_COUNTS_REPORT_ID, True)
         logging.info("Salesforce report fetched successfully")
 
         # a lot of this is not needed atm, we don't need to combine names with numbers of skills
