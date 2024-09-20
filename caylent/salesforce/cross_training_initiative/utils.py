@@ -5,18 +5,21 @@ import logging
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def get_skill_mappings(mappings_path):
+def get_skill_mappings(mappings_path, index):
     try:
         mappings_df = pd.read_csv(mappings_path, encoding='ISO-8859-1')
         logging.debug("Mappings DataFrame columns: %s", mappings_df.columns)
 
-        return mappings_df.to_dict('records')
+        # this may not make sense but keeping it here for the moment as it might make things easier to map
+        mappings_df.set_index(index, inplace = True)
+        # return mappings_df.to_dict('records')
+        return mappings_df
     except FileNotFoundError as e:
-        logging.error("Core skills file not found: %s", e)
+        logging.error("Mappings file not found: %s", e)
         raise
     except pd.errors.EmptyDataError as e:
-        logging.error("Core skills file is empty: %s", e)
+        logging.error("Mappings file is empty: %s", e)
         raise
     except Exception as e:
-        logging.error("Error reading core skills file: %s", e)
+        logging.error("Error reading Mappings file: %s", e)
         raise
