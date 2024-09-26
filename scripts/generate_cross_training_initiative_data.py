@@ -13,7 +13,10 @@ def main(username, password, security_token, mapping_path, output_path, show_plo
     sf = authenticate_salesforce(username, password, security_token)
     logging.info("Authenticated with Salesforce successfully")
 
-    generator_factory.getGenerator('CROSS_TRAINING_INITIATIVE').generate(sf, output_path, mapping_path, show_plot)
+
+    tmp_mapping_file = 'data/Cross_Training_BI_Analytics_POC.csv'
+    # generator_factory.getGenerator('CROSS_TRAINING_INITIATIVE').generate(sf, output_path, mapping_path, show_plot)
+    generator_factory.getGenerator('CROSS_TRAINING_INITIATIVE').generate(sf, output_path, tmp_mapping_file, show_plot)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process cross training initiative data.')

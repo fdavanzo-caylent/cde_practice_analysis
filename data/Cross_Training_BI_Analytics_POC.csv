@@ -1,0 +1,12 @@
+Skill Name,Pillar,Category,Include In Cross Training,Required skill for pillar,Minimum Rating for Pillar,Skill Weight,Candidate To Be Removed,
+Business Objects,BI & Analytics,BI and Analytics,No,No,,Low Priority,Yes,
+Javascript visualization (eg. d3js),BI & Analytics,BI and Analytics,No,No,,Low Priority,Yes,
+Star schema modeling,BI & Analytics,Data Warehouse,Yes,Yes,1,High Priority,No,
+PowerBI,BI & Analytics,BI and Analytics,No,No,,Medium Priority,No,
+Looker,BI & Analytics,BI and Analytics,No,No,,Medium Priority,Yes,Yes?
+Microstrategy,BI & Analytics,BI and Analytics,No,No,,Low Priority,Yes,
+Anomaly Detection,BI & Analytics,BI and Analytics,Yes,Yes,,Low Priority,No,
+Time series forecasting,BI & Analytics,BI and Analytics,Yes,No,,Low Priority,No,
+Quicksight,BI & Analytics,BI and Analytics,Yes,Yes,3,High Priority,No,
+Tableau,BI & Analytics,BI and Analytics,No,No,,Medium Priority,No,
+Qlik (View & Sense),BI & Analytics,BI and Analytics,No,No,,Low Priority,Yes,

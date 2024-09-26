@@ -1,0 +1,1424 @@
+pse__Rating__c,pse__Numerical_Rating__c,pse__Skill_Certification__r.pse__Group__c,pse__Skill_Certification__r.pse__Unique_Name__c,pse__Resource__r.Full_Name__c
+2 - Some Familiarity,2,Data,Tableau,Guido Salerno
+3 - Comfortable,3,Data,Star schema modeling,Henrique Da Silva Guimaraes Lima
+3 - Comfortable,3,Data,Star schema modeling,Udayakumar Mogilappagari
+2 - Some Familiarity,2,Data,Quicksight,Frank DAvanzo
+2 - Some Familiarity,2,Data,Tableau,Danilo Figueiredo
+3 - Comfortable,3,Data,PowerBI,Sabir Mardanov
+1 - Limited Exposure,1,Data,Microstrategy,Udayakumar Mogilappagari
+2 - Some Familiarity,2,Data,Anomaly Detection,Sabir Mardanov
+None,,Data,Looker,Israel Mendes
+1 - Limited Exposure,1,Data,Tableau,Marcos Ariel Foglino
+3 - Comfortable,3,Data,Star schema modeling,Victor Matheus de Carvalho
+1 - Limited Exposure,1,Data,Business Objects,Henrique Da Silva Guimaraes Lima
+4 - Strong,4,Data,Star schema modeling,Israel Mendes
+3 - Comfortable,3,Data,Anomaly Detection,Brian Brewer
+2 - Some Familiarity,2,Data,PowerBI,Franco Balduzzi
+1 - Limited Exposure,1,Data,Business Objects,Emiliano Diaz
+2 - Some Familiarity,2,Data,Quicksight,Rodrigo Vazquez
+3 - Comfortable,3,Data,Quicksight,Ponshankar Palanivel
+1 - Limited Exposure,1,Data,Business Objects,Ponshankar Palanivel
+2 - Some Familiarity,2,Data,Star schema modeling,Wesley Bortolozo
+2 - Some Familiarity,2,Data,Qlik (View & Sense),Ryan Gross
+2 - Some Familiarity,2,Data,Looker,Ryan Gross
+2 - Some Familiarity,2,Data,Javascript visualization (eg. d3js),Ryan Gross
+4 - Strong,4,Data,Tableau,Ponshankar Palanivel
+2 - Some Familiarity,2,Data,Tableau,Sabir Mardanov
+2 - Some Familiarity,2,Data,Quicksight,Ryan Gross
+3 - Comfortable,3,Data,Star schema modeling,Raj Samuel
+2 - Some Familiarity,2,Data,Star schema modeling,Ryan Gross
+2 - Some Familiarity,2,Data,Anomaly Detection,Ryan Gross
+None,,Data,Time series forecasting,Israel Mendes
+2 - Some Familiarity,2,Data,PowerBI,Ryan Gross
+2 - Some Familiarity,2,Data,Looker,Danilo Figueiredo
+2 - Some Familiarity,2,Data,Quicksight,Federico Melgar
+2 - Some Familiarity,2,Data,Tableau,Ryan Gross
+1 - Limited Exposure,1,Data,Business Objects,Ryan Gross
+2 - Some Familiarity,2,Data,Time series forecasting,Ryan Gross
+1 - Limited Exposure,1,Data,Tableau,Raj Samuel
+2 - Some Familiarity,2,Data,Quicksight,Fábio Alexandre
+2 - Some Familiarity,2,Data,Looker,Jorge Goldman
+2 - Some Familiarity,2,Data,Quicksight,Gustavo Gialluca
+2 - Some Familiarity,2,Data,PowerBI,Guillermo Britos
+4 - Strong,4,Data,Star schema modeling,Victor Alves
+4 - Strong,4,Data,Star schema modeling,Samir Nassif Palma
+3 - Comfortable,3,Data,Time series forecasting,Brian Brewer
+3 - Comfortable,3,Data,Quicksight,Sabir Mardanov
+1 - Limited Exposure,1,Data,Quicksight,Victor Alves
+1 - Limited Exposure,1,Data,Tableau,Victor Alves
+3 - Comfortable,3,Data,Anomaly Detection,Jorge Goldman
+3 - Comfortable,3,Data,PowerBI,Samir Nassif Palma
+2 - Some Familiarity,2,Data,Star schema modeling,Emiliano Diaz
+2 - Some Familiarity,2,Data,Microstrategy,Fábio Alexandre
+3 - Comfortable,3,Data,Time series forecasting,Fábio Alexandre
+3 - Comfortable,3,Data,Star schema modeling,Felipe Oliveira
+3 - Comfortable,3,Data,Looker,Rodrigo Vazquez
+2 - Some Familiarity,2,Data,Time series forecasting,Clement Viswanathan
+2 - Some Familiarity,2,Data,Tableau,Clement Viswanathan
+1 - Limited Exposure,1,Data,Quicksight,Pankaj Kushwaha
+1 - Limited Exposure,1,Data,Anomaly Detection,Afonso Takahashi
+2 - Some Familiarity,2,Data,Quicksight,Afonso Takahashi
+2 - Some Familiarity,2,Data,PowerBI,Afonso Takahashi
+2 - Some Familiarity,2,Data,Star schema modeling,Afonso Takahashi
+1 - Limited Exposure,1,Data,Microstrategy,Jorge Goldman
+3 - Comfortable,3,Data,Quicksight,Israel Mendes
+4 - Strong,4,Data,Star schema modeling,Jorge Goldman
+3 - Comfortable,3,Data,Qlik (View & Sense),Nader Khoshroo
+3 - Comfortable,3,Data,Star schema modeling,Clement Viswanathan
+1 - Limited Exposure,1,Data,Quicksight,Yan Haeffner
+1 - Limited Exposure,1,Data,Tableau,Vitor Augusto Toledo Azevedo Pinto
+1 - Limited Exposure,1,Data,Looker,Clement Viswanathan
+1 - Limited Exposure,1,Data,Looker,Yan Haeffner
+2 - Some Familiarity,2,Data,Anomaly Detection,Handerson Dutra
+2 - Some Familiarity,2,Data,Star schema modeling,Yan Haeffner
+2 - Some Familiarity,2,Data,Tableau,Samir Nassif Palma
+3 - Comfortable,3,Data,Time series forecasting,Ali Arabi
+2 - Some Familiarity,2,Data,Time series forecasting,Rodrigo Vazquez
+3 - Comfortable,3,Data,Looker,Nader Khoshroo
+3 - Comfortable,3,Data,PowerBI,Ponshankar Palanivel
+3 - Comfortable,3,Data,Quicksight,Nader Khoshroo
+3 - Comfortable,3,Data,Star schema modeling,Rodrigo Vazquez
+3 - Comfortable,3,Data,Anomaly Detection,Nader Khoshroo
+3 - Comfortable,3,Data,Star schema modeling,Nader Khoshroo
+3 - Comfortable,3,Data,Time series forecasting,Nader Khoshroo
+1 - Limited Exposure,1,Data,Anomaly Detection,Guillermo Britos
+4 - Strong,4,Data,Anomaly Detection,Gustavo Gialluca
+2 - Some Familiarity,2,Data,Anomaly Detection,Fábio Alexandre
+2 - Some Familiarity,2,Data,Quicksight,Guido Salerno
+1 - Limited Exposure,1,Data,Time series forecasting,Sabir Mardanov
+3 - Comfortable,3,Data,Tableau,Udayakumar Mogilappagari
+1 - Limited Exposure,1,Data,PowerBI,Vitor Augusto Toledo Azevedo Pinto
+1 - Limited Exposure,1,Data,Star schema modeling,Carolina Carvalho Dantas De Castro
+2 - Some Familiarity,2,Data,Star schema modeling,Vitor Augusto Toledo Azevedo Pinto
+3 - Comfortable,3,Data,Star schema modeling,Gaganpreet Singh
+4 - Strong,4,Data,PowerBI,Guilherme Garcia
+1 - Limited Exposure,1,Data,Business Objects,Felipe Oliveira
+4 - Strong,4,Data,Time series forecasting,Jorge Goldman
+2 - Some Familiarity,2,Data,Microstrategy,Samir Nassif Palma
+1 - Limited Exposure,1,Data,PowerBI,Handerson Dutra
+1 - Limited Exposure,1,Data,Tableau,Franco Balduzzi
+1 - Limited Exposure,1,Data,Star schema modeling,Ponshankar Palanivel
+1 - Limited Exposure,1,Data,PowerBI,Udayakumar Mogilappagari
+4 - Strong,4,Data,Microstrategy,Rodrigo Vazquez
+4 - Strong,4,Data,PowerBI,Brian Brewer
+2 - Some Familiarity,2,Data,Tableau,Jorge Goldman
+4 - Strong,4,Data,Star schema modeling,Fábio Alexandre
+4 - Strong,4,Data,Business Objects,Fábio Alexandre
+1 - Limited Exposure,1,Data,Looker,Marcos Broinizi
+2 - Some Familiarity,2,Data,Looker,Manju Malateshappa
+4 - Strong,4,Data,Star schema modeling,Brian Brewer
+3 - Comfortable,3,Data,Star schema modeling,Danilo Figueiredo
+1 - Limited Exposure,1,Data,Time series forecasting,Jason Chen
+3 - Comfortable,3,Data,Tableau,Rodrigo Vazquez
+2 - Some Familiarity,2,Data,Quicksight,Franco Balduzzi
+2 - Some Familiarity,2,Data,Time series forecasting,Guillermo Britos
+2 - Some Familiarity,2,Data,Quicksight,Wesley Bortolozo
+2 - Some Familiarity,2,Data,Star schema modeling,Guido Salerno
+2 - Some Familiarity,2,Data,Looker,Jason Chen
+1 - Limited Exposure,1,Data,Time series forecasting,Guilherme Garcia
+5 - Expert,5,Data,Quicksight,Guilherme Garcia
+4 - Strong,4,Data,Tableau,Guilherme Garcia
+1 - Limited Exposure,1,Data,Anomaly Detection,Ponshankar Palanivel
+4 - Strong,4,Data,Quicksight,Samir Nassif Palma
+4 - Strong,4,Data,Looker,Guilherme Garcia
+2 - Some Familiarity,2,Data,Tableau,Guillermo Britos
+1 - Limited Exposure,1,Data,Microstrategy,Ponshankar Palanivel
+3 - Comfortable,3,Data,Tableau,Henrique Da Silva Guimaraes Lima
+1 - Limited Exposure,1,Data,Microstrategy,Sabir Mardanov
+3 - Comfortable,3,Data,Star schema modeling,Sabir Mardanov
+3 - Comfortable,3,Data,Quicksight,Jorge Goldman
+2 - Some Familiarity,2,Data,Time series forecasting,Samir Nassif Palma
+1 - Limited Exposure,1,Data,Anomaly Detection,Jason Chen
+2 - Some Familiarity,2,Data,Anomaly Detection,Manju Malateshappa
+2 - Some Familiarity,2,Data,Quicksight,Carolina Carvalho Dantas De Castro
+1 - Limited Exposure,1,Data,Quicksight,Henrique Da Silva Guimaraes Lima
+2 - Some Familiarity,2,Data,Anomaly Detection,Ali Arabi
+2 - Some Familiarity,2,Data,PowerBI,Diego Trigueros
+2 - Some Familiarity,2,Data,Star schema modeling,Diego Trigueros
+2 - Some Familiarity,2,Data,Business Objects,Samir Nassif Palma
+2 - Some Familiarity,2,Data,Time series forecasting,Manju Malateshappa
+2 - Some Familiarity,2,Data,Time series forecasting,Diego Trigueros
+2 - Some Familiarity,2,Data,PowerBI,Felipe Oliveira
+3 - Comfortable,3,Data,PowerBI,Fábio Alexandre
+3 - Comfortable,3,Data,Star schema modeling,Handerson Dutra
+2 - Some Familiarity,2,Data,Tableau,Gaganpreet Singh
+1 - Limited Exposure,1,Data,Tableau,Felipe Oliveira
+3 - Comfortable,3,Data,Business Objects,Handerson Dutra
+3 - Comfortable,3,Data,Business Objects,Udayakumar Mogilappagari
+2 - Some Familiarity,2,Data,Looker,Ponshankar Palanivel
+1 - Limited Exposure,1,Data,Quicksight,Felipe Oliveira
+2 - Some Familiarity,2,Data,Looker,Matheus Espanhol
+1 - Limited Exposure,1,Data,Qlik (View & Sense),Matheus Espanhol
+2 - Some Familiarity,2,Data,PowerBI,Danilo Figueiredo
+3 - Comfortable,3,Data,PowerBI,Fernando Leite
+2 - Some Familiarity,2,Data,Star schema modeling,Fernando Leite
+2 - Some Familiarity,2,Data,Tableau,Janaki Sathish
+1 - Limited Exposure,1,Data,Javascript visualization (eg. d3js),Jorge Goldman
+4 - Strong,4,Data,Time series forecasting,Alejandro Garcia De La Vega
+1 - Limited Exposure,1,Data,Qlik (View & Sense),Alejandro Garcia De La Vega
+1 - Limited Exposure,1,Data,Quicksight,Emiliano Diaz
+4 - Strong,4,Data,PowerBI,Rodrigo Vazquez
+2 - Some Familiarity,2,Data,Star schema modeling,Franco Balduzzi
+3 - Comfortable,3,Data,Business Objects,Rodrigo Vazquez
+2 - Some Familiarity,2,Data,Javascript visualization (eg. d3js),Clement Viswanathan
+2 - Some Familiarity,2,Data,Time series forecasting,Matheus Espanhol
+1 - Limited Exposure,1,Data,Quicksight,Clement Viswanathan
+1 - Limited Exposure,1,Data,PowerBI,Clement Viswanathan
+1 - Limited Exposure,1,Data,Looker,Vinicius Martucci
+1 - Limited Exposure,1,Data,Quicksight,Gabriel Gonçalves
+1 - Limited Exposure,1,Data,Star schema modeling,Gabriel Gonçalves
+1 - Limited Exposure,1,Data,Tableau,Luis Leal
+2 - Some Familiarity,2,Data,Anomaly Detection,Luis Leal
+2 - Some Familiarity,2,Data,Business Objects,Luis Leal
+3 - Comfortable,3,Data,Star schema modeling,Luis Leal
+2 - Some Familiarity,2,Data,Time series forecasting,Luis Leal
+2 - Some Familiarity,2,Data,Quicksight,Shariful Islam
+2 - Some Familiarity,2,Data,Quicksight,Gabriel Medeiros
+3 - Comfortable,3,Data,Star schema modeling,Robert Francis
+2 - Some Familiarity,2,Data,PowerBI,Robert Francis
+2 - Some Familiarity,2,Data,Business Objects,Robert Francis
+3 - Comfortable,3,Data,Quicksight,Robert Francis
+3 - Comfortable,3,Data,Star schema modeling,Gabriel Medeiros
+1 - Limited Exposure,1,Data,Javascript visualization (eg. d3js),Gabriel Medeiros
+2 - Some Familiarity,2,Data,Quicksight,Chad Monden
+4 - Strong,4,Data,Star schema modeling,Chad Monden
+1 - Limited Exposure,1,Data,Time series forecasting,Chad Monden
+3 - Comfortable,3,Data,Anomaly Detection,Ahmed Afify
+2 - Some Familiarity,2,Data,PowerBI,Ahmed Afify
+4 - Strong,4,Data,Time series forecasting,Ahmed Afify
+1 - Limited Exposure,1,Data,Time series forecasting,Ponshankar Palanivel
+3 - Comfortable,3,Data,Quicksight,Diego Trigueros
+3 - Comfortable,3,Data,PowerBI,Mike McQueen
+3 - Comfortable,3,Data,Quicksight,Mike McQueen
+2 - Some Familiarity,2,Data,Microstrategy,Thiago Muniz
+3 - Comfortable,3,Data,Star schema modeling,Thiago Muniz
+2 - Some Familiarity,2,Data,Looker,Manol Manolov
+2 - Some Familiarity,2,Data,Tableau,Manol Manolov
+4 - Strong,4,Data,Star schema modeling,Manol Manolov
+1 - Limited Exposure,1,Data,Business Objects,Manol Manolov
+1 - Limited Exposure,1,Data,Quicksight,Tiago Fernandes
+2 - Some Familiarity,2,Data,Looker,Tiago Fernandes
+1 - Limited Exposure,1,Data,Tableau,Tiago Fernandes
+2 - Some Familiarity,2,Data,Star schema modeling,Tiago Fernandes
+4 - Strong,4,Data,Anomaly Detection,Sarah Elhammadi
+2 - Some Familiarity,2,Data,Quicksight,Vitor Augusto Toledo Azevedo Pinto
+1 - Limited Exposure,1,Data,Quicksight,Jason Chen
+2 - Some Familiarity,2,Data,Anomaly Detection,Joao Menezes
+1 - Limited Exposure,1,Data,Qlik (View & Sense),Elisson Lima
+2 - Some Familiarity,2,Data,Javascript visualization (eg. d3js),Kunal Agarwala
+1 - Limited Exposure,1,Data,Quicksight,Kunal Agarwala
+2 - Some Familiarity,2,Data,Business Objects,Kunal Agarwala
+1 - Limited Exposure,1,Data,Time series forecasting,Kunal Agarwala
+4 - Strong,4,Data,Anomaly Detection,Hussain Shabbir
+2 - Some Familiarity,2,Data,Quicksight,Hussain Shabbir
+4 - Strong,4,Data,Time series forecasting,Hussain Shabbir
+1 - Limited Exposure,1,Data,Anomaly Detection,Alexander Mukasyan
+2 - Some Familiarity,2,Data,Star schema modeling,Alexander Mukasyan
+2 - Some Familiarity,2,Data,Looker,Anna Lisboa
+3 - Comfortable,3,Data,Star schema modeling,Eduardo Xavier
+1 - Limited Exposure,1,Data,Tableau,Eduardo Xavier
+1 - Limited Exposure,1,Data,Quicksight,Eduardo Xavier
+1 - Limited Exposure,1,Data,Qlik (View & Sense),Klaus Cabral
+None,,Data,Tableau,Klaus Cabral
+3 - Comfortable,3,Data,Star schema modeling,Klaus Cabral
+1 - Limited Exposure,1,Data,Microstrategy,Denis Carabadjac
+None,,Data,Anomaly Detection,Denis Carabadjac
+2 - Some Familiarity,2,Data,PowerBI,Denis Carabadjac
+None,,Data,Time series forecasting,Denis Carabadjac
+3 - Comfortable,3,Data,Quicksight,Denis Carabadjac
+4 - Strong,4,Data,Looker,Denis Carabadjac
+4 - Strong,4,Data,Star schema modeling,Denis Carabadjac
+4 - Strong,4,Data,Star schema modeling,Anna Lisboa
+1 - Limited Exposure,1,Data,Quicksight,Gareth Houk
+2 - Some Familiarity,2,Data,Time series forecasting,Gareth Houk
+1 - Limited Exposure,1,Data,Tableau,Gareth Houk
+1 - Limited Exposure,1,Data,Looker,Frank DAvanzo
+1 - Limited Exposure,1,Data,Qlik (View & Sense),Frank DAvanzo
+4 - Strong,4,Data,Time series forecasting,MJ Tung
+3 - Comfortable,3,Data,Quicksight,MJ Tung
+None,,Data,Javascript visualization (eg. d3js),Fábio Alexandre
+None,,Data,Looker,Fábio Alexandre
+None,,Data,Tableau,Fábio Alexandre
+None,,Data,Qlik (View & Sense),Fábio Alexandre
+None,,Data,Business Objects,Israel Mendes
+None,,Data,Javascript visualization (eg. d3js),Israel Mendes
+None,,Data,PowerBI,Israel Mendes
+None,,Data,Microstrategy,Israel Mendes
+None,,Data,Anomaly Detection,Israel Mendes
+None,,Data,Tableau,Israel Mendes
+None,,Data,Qlik (View & Sense),Israel Mendes
+None,,Data,Business Objects,Rafael Varanda
+None,,Data,Javascript visualization (eg. d3js),Rafael Varanda
+1 - Limited Exposure,1,Data,Star schema modeling,Rafael Varanda
+None,,Data,PowerBI,Rafael Varanda
+None,,Data,Looker,Rafael Varanda
+None,,Data,Microstrategy,Rafael Varanda
+None,,Data,Anomaly Detection,Rafael Varanda
+None,,Data,Time series forecasting,Rafael Varanda
+None,,Data,Quicksight,Rafael Varanda
+None,,Data,Tableau,Rafael Varanda
+None,,Data,Qlik (View & Sense),Rafael Varanda
+None,,Data,Javascript visualization (eg. d3js),Rodrigo Vazquez
+None,,Data,Anomaly Detection,Rodrigo Vazquez
+None,,Data,Qlik (View & Sense),Rodrigo Vazquez
+None,,Data,Business Objects,Jorge Goldman
+None,,Data,PowerBI,Jorge Goldman
+None,,Data,Qlik (View & Sense),Jorge Goldman
+None,,Data,Business Objects,Franco Balduzzi
+None,,Data,Javascript visualization (eg. d3js),Franco Balduzzi
+None,,Data,Looker,Franco Balduzzi
+None,,Data,Microstrategy,Franco Balduzzi
+None,,Data,Anomaly Detection,Franco Balduzzi
+None,,Data,Time series forecasting,Franco Balduzzi
+None,,Data,Qlik (View & Sense),Franco Balduzzi
+None,,Data,Business Objects,Gustavo Gialluca
+None,,Data,Javascript visualization (eg. d3js),Gustavo Gialluca
+None,,Data,Star schema modeling,Gustavo Gialluca
+None,,Data,PowerBI,Gustavo Gialluca
+None,,Data,Looker,Gustavo Gialluca
+None,,Data,Microstrategy,Gustavo Gialluca
+None,,Data,Time series forecasting,Gustavo Gialluca
+None,,Data,Tableau,Gustavo Gialluca
+None,,Data,Qlik (View & Sense),Gustavo Gialluca
+None,,Data,Business Objects,Vitor Augusto Toledo Azevedo Pinto
+None,,Data,Javascript visualization (eg. d3js),Vitor Augusto Toledo Azevedo Pinto
+None,,Data,Looker,Vitor Augusto Toledo Azevedo Pinto
+None,,Data,Microstrategy,Vitor Augusto Toledo Azevedo Pinto
+None,,Data,Anomaly Detection,Vitor Augusto Toledo Azevedo Pinto
+None,,Data,Time series forecasting,Vitor Augusto Toledo Azevedo Pinto
+None,,Data,Qlik (View & Sense),Vitor Augusto Toledo Azevedo Pinto
+None,,Data,Business Objects,Pankaj Kushwaha
+None,,Data,Javascript visualization (eg. d3js),Pankaj Kushwaha
+None,,Data,Star schema modeling,Pankaj Kushwaha
+None,,Data,PowerBI,Pankaj Kushwaha
+None,,Data,Looker,Pankaj Kushwaha
+None,,Data,Microstrategy,Pankaj Kushwaha
+None,,Data,Anomaly Detection,Pankaj Kushwaha
+None,,Data,Time series forecasting,Pankaj Kushwaha
+None,,Data,Tableau,Pankaj Kushwaha
+None,,Data,Qlik (View & Sense),Pankaj Kushwaha
+None,,Data,Javascript visualization (eg. d3js),Felipe Oliveira
+None,,Data,Looker,Felipe Oliveira
+None,,Data,Microstrategy,Felipe Oliveira
+None,,Data,Anomaly Detection,Felipe Oliveira
+None,,Data,Time series forecasting,Felipe Oliveira
+None,,Data,Qlik (View & Sense),Felipe Oliveira
+None,,Data,Javascript visualization (eg. d3js),Ponshankar Palanivel
+None,,Data,Qlik (View & Sense),Ponshankar Palanivel
+None,,Data,Business Objects,Wesley Bortolozo
+None,,Data,Javascript visualization (eg. d3js),Wesley Bortolozo
+None,,Data,PowerBI,Wesley Bortolozo
+None,,Data,Looker,Wesley Bortolozo
+None,,Data,Microstrategy,Wesley Bortolozo
+None,,Data,Anomaly Detection,Wesley Bortolozo
+None,,Data,Time series forecasting,Wesley Bortolozo
+None,,Data,Tableau,Wesley Bortolozo
+None,,Data,Qlik (View & Sense),Wesley Bortolozo
+None,,Data,Javascript visualization (eg. d3js),Udayakumar Mogilappagari
+None,,Data,Looker,Udayakumar Mogilappagari
+None,,Data,Anomaly Detection,Udayakumar Mogilappagari
+None,,Data,Time series forecasting,Udayakumar Mogilappagari
+None,,Data,Quicksight,Udayakumar Mogilappagari
+None,,Data,Qlik (View & Sense),Udayakumar Mogilappagari
+None,,Data,Business Objects,Gaganpreet Singh
+None,,Data,Javascript visualization (eg. d3js),Gaganpreet Singh
+None,,Data,PowerBI,Gaganpreet Singh
+None,,Data,Looker,Gaganpreet Singh
+None,,Data,Microstrategy,Gaganpreet Singh
+None,,Data,Anomaly Detection,Gaganpreet Singh
+None,,Data,Time series forecasting,Gaganpreet Singh
+None,,Data,Quicksight,Gaganpreet Singh
+None,,Data,Qlik (View & Sense),Gaganpreet Singh
+None,,Data,Business Objects,Brian Brewer
+None,,Data,Javascript visualization (eg. d3js),Brian Brewer
+None,,Data,Looker,Brian Brewer
+None,,Data,Microstrategy,Brian Brewer
+2 - Some Familiarity,2,Data,Quicksight,Brian Brewer
+None,,Data,Tableau,Brian Brewer
+None,,Data,Qlik (View & Sense),Brian Brewer
+None,,Data,Business Objects,Danilo Figueiredo
+None,,Data,Javascript visualization (eg. d3js),Danilo Figueiredo
+None,,Data,Microstrategy,Danilo Figueiredo
+None,,Data,Anomaly Detection,Danilo Figueiredo
+None,,Data,Time series forecasting,Danilo Figueiredo
+None,,Data,Quicksight,Danilo Figueiredo
+None,,Data,Qlik (View & Sense),Danilo Figueiredo
+None,,Data,Business Objects,Ali Arabi
+None,,Data,Javascript visualization (eg. d3js),Ali Arabi
+None,,Data,Star schema modeling,Ali Arabi
+None,,Data,PowerBI,Ali Arabi
+None,,Data,Looker,Ali Arabi
+None,,Data,Microstrategy,Ali Arabi
+None,,Data,Quicksight,Ali Arabi
+None,,Data,Tableau,Ali Arabi
+None,,Data,Qlik (View & Sense),Ali Arabi
+None,,Data,Business Objects,Janaki Sathish
+None,,Data,Javascript visualization (eg. d3js),Janaki Sathish
+None,,Data,Star schema modeling,Janaki Sathish
+None,,Data,PowerBI,Janaki Sathish
+None,,Data,Looker,Janaki Sathish
+None,,Data,Microstrategy,Janaki Sathish
+None,,Data,Anomaly Detection,Janaki Sathish
+None,,Data,Time series forecasting,Janaki Sathish
+None,,Data,Quicksight,Janaki Sathish
+None,,Data,Qlik (View & Sense),Janaki Sathish
+None,,Data,Business Objects,Guillermo Britos
+None,,Data,Javascript visualization (eg. d3js),Guillermo Britos
+None,,Data,Star schema modeling,Guillermo Britos
+None,,Data,Looker,Guillermo Britos
+None,,Data,Microstrategy,Guillermo Britos
+None,,Data,Quicksight,Guillermo Britos
+None,,Data,Qlik (View & Sense),Guillermo Britos
+None,,Data,Javascript visualization (eg. d3js),Henrique Da Silva Guimaraes Lima
+None,,Data,PowerBI,Henrique Da Silva Guimaraes Lima
+None,,Data,Looker,Henrique Da Silva Guimaraes Lima
+None,,Data,Microstrategy,Henrique Da Silva Guimaraes Lima
+None,,Data,Anomaly Detection,Henrique Da Silva Guimaraes Lima
+None,,Data,Time series forecasting,Henrique Da Silva Guimaraes Lima
+None,,Data,Qlik (View & Sense),Henrique Da Silva Guimaraes Lima
+None,,Data,Business Objects,Sabir Mardanov
+None,,Data,Javascript visualization (eg. d3js),Sabir Mardanov
+None,,Data,Looker,Sabir Mardanov
+None,,Data,Qlik (View & Sense),Sabir Mardanov
+None,,Data,Business Objects,Guilherme Garcia
+None,,Data,Javascript visualization (eg. d3js),Guilherme Garcia
+None,,Data,Star schema modeling,Guilherme Garcia
+None,,Data,Microstrategy,Guilherme Garcia
+None,,Data,Anomaly Detection,Guilherme Garcia
+None,,Data,Qlik (View & Sense),Guilherme Garcia
+None,,Data,Business Objects,Federico Melgar
+None,,Data,Javascript visualization (eg. d3js),Federico Melgar
+None,,Data,Star schema modeling,Federico Melgar
+None,,Data,PowerBI,Federico Melgar
+None,,Data,Looker,Federico Melgar
+None,,Data,Microstrategy,Federico Melgar
+None,,Data,Anomaly Detection,Federico Melgar
+None,,Data,Time series forecasting,Federico Melgar
+None,,Data,Tableau,Federico Melgar
+None,,Data,Qlik (View & Sense),Federico Melgar
+None,,Data,Business Objects,Victor Matheus de Carvalho
+None,,Data,Javascript visualization (eg. d3js),Victor Matheus de Carvalho
+None,,Data,PowerBI,Victor Matheus de Carvalho
+None,,Data,Looker,Victor Matheus de Carvalho
+None,,Data,Microstrategy,Victor Matheus de Carvalho
+None,,Data,Anomaly Detection,Victor Matheus de Carvalho
+None,,Data,Time series forecasting,Victor Matheus de Carvalho
+None,,Data,Quicksight,Victor Matheus de Carvalho
+None,,Data,Tableau,Victor Matheus de Carvalho
+None,,Data,Qlik (View & Sense),Victor Matheus de Carvalho
+None,,Data,Javascript visualization (eg. d3js),Handerson Dutra
+2 - Some Familiarity,2,Data,Looker,Handerson Dutra
+None,,Data,Microstrategy,Handerson Dutra
+None,,Data,Time series forecasting,Handerson Dutra
+3 - Comfortable,3,Data,Quicksight,Handerson Dutra
+None,,Data,Tableau,Handerson Dutra
+1 - Limited Exposure,1,Data,Qlik (View & Sense),Handerson Dutra
+None,,Data,Javascript visualization (eg. d3js),Samir Nassif Palma
+None,,Data,Looker,Samir Nassif Palma
+None,,Data,Anomaly Detection,Samir Nassif Palma
+None,,Data,Qlik (View & Sense),Samir Nassif Palma
+None,,Data,Business Objects,Marcos Ariel Foglino
+None,,Data,Javascript visualization (eg. d3js),Marcos Ariel Foglino
+None,,Data,Star schema modeling,Marcos Ariel Foglino
+None,,Data,PowerBI,Marcos Ariel Foglino
+None,,Data,Looker,Marcos Ariel Foglino
+None,,Data,Microstrategy,Marcos Ariel Foglino
+None,,Data,Anomaly Detection,Marcos Ariel Foglino
+None,,Data,Time series forecasting,Marcos Ariel Foglino
+None,,Data,Quicksight,Marcos Ariel Foglino
+None,,Data,Qlik (View & Sense),Marcos Ariel Foglino
+None,,Data,Business Objects,Diego Trigueros
+None,,Data,Javascript visualization (eg. d3js),Diego Trigueros
+None,,Data,Looker,Diego Trigueros
+None,,Data,Microstrategy,Diego Trigueros
+None,,Data,Anomaly Detection,Diego Trigueros
+None,,Data,Tableau,Diego Trigueros
+None,,Data,Qlik (View & Sense),Diego Trigueros
+None,,Data,Business Objects,Jason Chen
+None,,Data,Javascript visualization (eg. d3js),Jason Chen
+None,,Data,Star schema modeling,Jason Chen
+None,,Data,PowerBI,Jason Chen
+None,,Data,Microstrategy,Jason Chen
+None,,Data,Tableau,Jason Chen
+None,,Data,Qlik (View & Sense),Jason Chen
+None,,Data,Business Objects,Fernando Leite
+None,,Data,Javascript visualization (eg. d3js),Fernando Leite
+None,,Data,Looker,Fernando Leite
+None,,Data,Microstrategy,Fernando Leite
+None,,Data,Anomaly Detection,Fernando Leite
+None,,Data,Time series forecasting,Fernando Leite
+None,,Data,Quicksight,Fernando Leite
+None,,Data,Tableau,Fernando Leite
+None,,Data,Qlik (View & Sense),Fernando Leite
+None,,Data,Business Objects,Clement Viswanathan
+None,,Data,Microstrategy,Clement Viswanathan
+None,,Data,Anomaly Detection,Clement Viswanathan
+None,,Data,Qlik (View & Sense),Clement Viswanathan
+None,,Data,Business Objects,Anna Lisboa
+2 - Some Familiarity,2,Data,Javascript visualization (eg. d3js),Anna Lisboa
+2 - Some Familiarity,2,Data,PowerBI,Anna Lisboa
+1 - Limited Exposure,1,Data,Microstrategy,Anna Lisboa
+None,,Data,Anomaly Detection,Anna Lisboa
+2 - Some Familiarity,2,Data,Time series forecasting,Anna Lisboa
+2 - Some Familiarity,2,Data,Quicksight,Anna Lisboa
+3 - Comfortable,3,Data,Tableau,Anna Lisboa
+1 - Limited Exposure,1,Data,Qlik (View & Sense),Anna Lisboa
+None,,Data,Business Objects,João Pedro Loureiro
+None,,Data,Javascript visualization (eg. d3js),João Pedro Loureiro
+None,,Data,Star schema modeling,João Pedro Loureiro
+None,,Data,PowerBI,João Pedro Loureiro
+None,,Data,Looker,João Pedro Loureiro
+None,,Data,Microstrategy,João Pedro Loureiro
+None,,Data,Anomaly Detection,João Pedro Loureiro
+None,,Data,Time series forecasting,João Pedro Loureiro
+None,,Data,Quicksight,João Pedro Loureiro
+None,,Data,Tableau,João Pedro Loureiro
+None,,Data,Qlik (View & Sense),João Pedro Loureiro
+None,,Data,Business Objects,Vinicius Martucci
+None,,Data,Javascript visualization (eg. d3js),Vinicius Martucci
+None,,Data,Star schema modeling,Vinicius Martucci
+None,,Data,PowerBI,Vinicius Martucci
+None,,Data,Microstrategy,Vinicius Martucci
+None,,Data,Anomaly Detection,Vinicius Martucci
+None,,Data,Time series forecasting,Vinicius Martucci
+None,,Data,Quicksight,Vinicius Martucci
+None,,Data,Tableau,Vinicius Martucci
+None,,Data,Qlik (View & Sense),Vinicius Martucci
+None,,Data,Business Objects,MJ Tung
+None,,Data,Javascript visualization (eg. d3js),MJ Tung
+4 - Strong,4,Data,Star schema modeling,MJ Tung
+1 - Limited Exposure,1,Data,PowerBI,MJ Tung
+None,,Data,Looker,MJ Tung
+None,,Data,Microstrategy,MJ Tung
+2 - Some Familiarity,2,Data,Anomaly Detection,MJ Tung
+2 - Some Familiarity,2,Data,Tableau,MJ Tung
+None,,Data,Qlik (View & Sense),MJ Tung
+None,,Data,Javascript visualization (eg. d3js),Luis Leal
+None,,Data,PowerBI,Luis Leal
+None,,Data,Looker,Luis Leal
+None,,Data,Microstrategy,Luis Leal
+None,,Data,Quicksight,Luis Leal
+None,,Data,Qlik (View & Sense),Luis Leal
+None,,Data,Business Objects,Yan Haeffner
+None,,Data,Javascript visualization (eg. d3js),Yan Haeffner
+None,,Data,PowerBI,Yan Haeffner
+None,,Data,Microstrategy,Yan Haeffner
+None,,Data,Anomaly Detection,Yan Haeffner
+None,,Data,Time series forecasting,Yan Haeffner
+None,,Data,Tableau,Yan Haeffner
+None,,Data,Qlik (View & Sense),Yan Haeffner
+None,,Data,Javascript visualization (eg. d3js),Robert Francis
+None,,Data,Looker,Robert Francis
+None,,Data,Microstrategy,Robert Francis
+None,,Data,Anomaly Detection,Robert Francis
+None,,Data,Time series forecasting,Robert Francis
+3 - Comfortable,3,Data,Tableau,Robert Francis
+None,,Data,Qlik (View & Sense),Robert Francis
+None,,Data,Business Objects,Shariful Islam
+None,,Data,Javascript visualization (eg. d3js),Shariful Islam
+None,,Data,Star schema modeling,Shariful Islam
+None,,Data,PowerBI,Shariful Islam
+None,,Data,Looker,Shariful Islam
+None,,Data,Microstrategy,Shariful Islam
+None,,Data,Anomaly Detection,Shariful Islam
+None,,Data,Time series forecasting,Shariful Islam
+None,,Data,Tableau,Shariful Islam
+None,,Data,Qlik (View & Sense),Shariful Islam
+None,,Data,Business Objects,Guido Salerno
+None,,Data,Javascript visualization (eg. d3js),Guido Salerno
+None,,Data,PowerBI,Guido Salerno
+None,,Data,Looker,Guido Salerno
+None,,Data,Microstrategy,Guido Salerno
+None,,Data,Anomaly Detection,Guido Salerno
+None,,Data,Time series forecasting,Guido Salerno
+None,,Data,Qlik (View & Sense),Guido Salerno
+None,,Data,Business Objects,Afonso Takahashi
+None,,Data,Javascript visualization (eg. d3js),Afonso Takahashi
+None,,Data,Looker,Afonso Takahashi
+None,,Data,Microstrategy,Afonso Takahashi
+None,,Data,Time series forecasting,Afonso Takahashi
+None,,Data,Tableau,Afonso Takahashi
+2 - Some Familiarity,2,Data,Qlik (View & Sense),Afonso Takahashi
+None,,Data,Javascript visualization (eg. d3js),Emiliano Diaz
+2 - Some Familiarity,2,Data,PowerBI,Emiliano Diaz
+None,,Data,Looker,Emiliano Diaz
+None,,Data,Microstrategy,Emiliano Diaz
+None,,Data,Anomaly Detection,Emiliano Diaz
+None,,Data,Time series forecasting,Emiliano Diaz
+None,,Data,Tableau,Emiliano Diaz
+None,,Data,Qlik (View & Sense),Emiliano Diaz
+None,,Data,Business Objects,Matheus Espanhol
+None,,Data,Javascript visualization (eg. d3js),Matheus Espanhol
+None,,Data,Star schema modeling,Matheus Espanhol
+None,,Data,PowerBI,Matheus Espanhol
+None,,Data,Microstrategy,Matheus Espanhol
+None,,Data,Anomaly Detection,Matheus Espanhol
+None,,Data,Quicksight,Matheus Espanhol
+None,,Data,Tableau,Matheus Espanhol
+None,,Data,Business Objects,Ahmed Afify
+None,,Data,Javascript visualization (eg. d3js),Ahmed Afify
+None,,Data,Star schema modeling,Ahmed Afify
+None,,Data,Looker,Ahmed Afify
+None,,Data,Microstrategy,Ahmed Afify
+2 - Some Familiarity,2,Data,Quicksight,Ahmed Afify
+2 - Some Familiarity,2,Data,Tableau,Ahmed Afify
+None,,Data,Qlik (View & Sense),Ahmed Afify
+None,,Data,Business Objects,Sarah Elhammadi
+None,,Data,Javascript visualization (eg. d3js),Sarah Elhammadi
+None,,Data,Star schema modeling,Sarah Elhammadi
+None,,Data,PowerBI,Sarah Elhammadi
+None,,Data,Looker,Sarah Elhammadi
+None,,Data,Microstrategy,Sarah Elhammadi
+None,,Data,Time series forecasting,Sarah Elhammadi
+None,,Data,Quicksight,Sarah Elhammadi
+None,,Data,Tableau,Sarah Elhammadi
+None,,Data,Qlik (View & Sense),Sarah Elhammadi
+None,,Data,Business Objects,Chad Monden
+None,,Data,Javascript visualization (eg. d3js),Chad Monden
+None,,Data,PowerBI,Chad Monden
+None,,Data,Looker,Chad Monden
+None,,Data,Microstrategy,Chad Monden
+None,,Data,Anomaly Detection,Chad Monden
+None,,Data,Tableau,Chad Monden
+None,,Data,Qlik (View & Sense),Chad Monden
+None,,Data,Business Objects,Yaroslav Serhiichuk
+None,,Data,Javascript visualization (eg. d3js),Yaroslav Serhiichuk
+3 - Comfortable,3,Data,Star schema modeling,Yaroslav Serhiichuk
+None,,Data,PowerBI,Yaroslav Serhiichuk
+1 - Limited Exposure,1,Data,Looker,Yaroslav Serhiichuk
+None,,Data,Microstrategy,Yaroslav Serhiichuk
+None,,Data,Anomaly Detection,Yaroslav Serhiichuk
+None,,Data,Time series forecasting,Yaroslav Serhiichuk
+1 - Limited Exposure,1,Data,Quicksight,Yaroslav Serhiichuk
+None,,Data,Tableau,Yaroslav Serhiichuk
+None,,Data,Qlik (View & Sense),Yaroslav Serhiichuk
+None,,Data,Business Objects,Sankalp Prabhakar
+None,,Data,Javascript visualization (eg. d3js),Sankalp Prabhakar
+None,,Data,Star schema modeling,Sankalp Prabhakar
+None,,Data,PowerBI,Sankalp Prabhakar
+None,,Data,Looker,Sankalp Prabhakar
+None,,Data,Microstrategy,Sankalp Prabhakar
+4 - Strong,4,Data,Anomaly Detection,Sankalp Prabhakar
+3 - Comfortable,3,Data,Time series forecasting,Sankalp Prabhakar
+None,,Data,Quicksight,Sankalp Prabhakar
+None,,Data,Tableau,Sankalp Prabhakar
+None,,Data,Qlik (View & Sense),Sankalp Prabhakar
+None,,Data,Business Objects,Mike McQueen
+None,,Data,Javascript visualization (eg. d3js),Mike McQueen
+4 - Strong,4,Data,Star schema modeling,Mike McQueen
+None,,Data,Looker,Mike McQueen
+None,,Data,Microstrategy,Mike McQueen
+None,,Data,Anomaly Detection,Mike McQueen
+None,,Data,Time series forecasting,Mike McQueen
+3 - Comfortable,3,Data,Tableau,Mike McQueen
+None,,Data,Qlik (View & Sense),Mike McQueen
+None,,Data,Business Objects,Hussain Shabbir
+None,,Data,Javascript visualization (eg. d3js),Hussain Shabbir
+None,,Data,Star schema modeling,Hussain Shabbir
+None,,Data,PowerBI,Hussain Shabbir
+None,,Data,Looker,Hussain Shabbir
+None,,Data,Microstrategy,Hussain Shabbir
+None,,Data,Tableau,Hussain Shabbir
+None,,Data,Qlik (View & Sense),Hussain Shabbir
+None,,Data,Business Objects,Thiago Muniz
+None,,Data,Javascript visualization (eg. d3js),Thiago Muniz
+None,,Data,PowerBI,Thiago Muniz
+None,,Data,Looker,Thiago Muniz
+None,,Data,Anomaly Detection,Thiago Muniz
+None,,Data,Time series forecasting,Thiago Muniz
+None,,Data,Quicksight,Thiago Muniz
+None,,Data,Tableau,Thiago Muniz
+None,,Data,Qlik (View & Sense),Thiago Muniz
+None,,Data,Business Objects,Elisson Lima
+None,,Data,Javascript visualization (eg. d3js),Elisson Lima
+None,,Data,Star schema modeling,Elisson Lima
+None,,Data,PowerBI,Elisson Lima
+None,,Data,Looker,Elisson Lima
+None,,Data,Microstrategy,Elisson Lima
+None,,Data,Anomaly Detection,Elisson Lima
+None,,Data,Time series forecasting,Elisson Lima
+None,,Data,Quicksight,Elisson Lima
+None,,Data,Tableau,Elisson Lima
+None,,Data,Business Objects,Joao Menezes
+None,,Data,Javascript visualization (eg. d3js),Joao Menezes
+None,,Data,Star schema modeling,Joao Menezes
+None,,Data,PowerBI,Joao Menezes
+None,,Data,Looker,Joao Menezes
+None,,Data,Microstrategy,Joao Menezes
+None,,Data,Time series forecasting,Joao Menezes
+None,,Data,Quicksight,Joao Menezes
+None,,Data,Tableau,Joao Menezes
+None,,Data,Qlik (View & Sense),Joao Menezes
+None,,Data,Business Objects,Marcos Broinizi
+None,,Data,Javascript visualization (eg. d3js),Marcos Broinizi
+None,,Data,Star schema modeling,Marcos Broinizi
+None,,Data,PowerBI,Marcos Broinizi
+None,,Data,Microstrategy,Marcos Broinizi
+None,,Data,Anomaly Detection,Marcos Broinizi
+None,,Data,Time series forecasting,Marcos Broinizi
+None,,Data,Quicksight,Marcos Broinizi
+None,,Data,Tableau,Marcos Broinizi
+None,,Data,Qlik (View & Sense),Marcos Broinizi
+None,,Data,Business Objects,Tiago Fernandes
+None,,Data,Javascript visualization (eg. d3js),Tiago Fernandes
+None,,Data,PowerBI,Tiago Fernandes
+None,,Data,Microstrategy,Tiago Fernandes
+None,,Data,Anomaly Detection,Tiago Fernandes
+None,,Data,Time series forecasting,Tiago Fernandes
+None,,Data,Qlik (View & Sense),Tiago Fernandes
+None,,Data,Business Objects,Klaus Cabral
+None,,Data,Javascript visualization (eg. d3js),Klaus Cabral
+None,,Data,PowerBI,Klaus Cabral
+None,,Data,Looker,Klaus Cabral
+None,,Data,Microstrategy,Klaus Cabral
+None,,Data,Anomaly Detection,Klaus Cabral
+None,,Data,Time series forecasting,Klaus Cabral
+None,,Data,Quicksight,Klaus Cabral
+None,,Data,Business Objects,Denis Carabadjac
+None,,Data,Javascript visualization (eg. d3js),Denis Carabadjac
+3 - Comfortable,3,Data,Tableau,Denis Carabadjac
+None,,Data,Qlik (View & Sense),Denis Carabadjac
+None,,Data,Star schema modeling,Kunal Agarwala
+None,,Data,PowerBI,Kunal Agarwala
+None,,Data,Looker,Kunal Agarwala
+None,,Data,Microstrategy,Kunal Agarwala
+None,,Data,Anomaly Detection,Kunal Agarwala
+None,,Data,Tableau,Kunal Agarwala
+None,,Data,Qlik (View & Sense),Kunal Agarwala
+None,,Data,Business Objects,Victor Alves
+None,,Data,Javascript visualization (eg. d3js),Victor Alves
+None,,Data,PowerBI,Victor Alves
+None,,Data,Looker,Victor Alves
+None,,Data,Microstrategy,Victor Alves
+None,,Data,Anomaly Detection,Victor Alves
+None,,Data,Time series forecasting,Victor Alves
+None,,Data,Qlik (View & Sense),Victor Alves
+None,,Data,Business Objects,Alexander Mukasyan
+None,,Data,Javascript visualization (eg. d3js),Alexander Mukasyan
+None,,Data,PowerBI,Alexander Mukasyan
+None,,Data,Looker,Alexander Mukasyan
+None,,Data,Microstrategy,Alexander Mukasyan
+None,,Data,Time series forecasting,Alexander Mukasyan
+4 - Strong,4,Data,Quicksight,Alexander Mukasyan
+None,,Data,Tableau,Alexander Mukasyan
+None,,Data,Qlik (View & Sense),Alexander Mukasyan
+None,,Data,Business Objects,Gareth Houk
+None,,Data,Javascript visualization (eg. d3js),Gareth Houk
+None,,Data,Star schema modeling,Gareth Houk
+None,,Data,PowerBI,Gareth Houk
+None,,Data,Looker,Gareth Houk
+None,,Data,Microstrategy,Gareth Houk
+None,,Data,Anomaly Detection,Gareth Houk
+None,,Data,Qlik (View & Sense),Gareth Houk
+None,,Data,Business Objects,Frank DAvanzo
+None,,Data,Javascript visualization (eg. d3js),Frank DAvanzo
+None,,Data,Star schema modeling,Frank DAvanzo
+None,,Data,PowerBI,Frank DAvanzo
+None,,Data,Microstrategy,Frank DAvanzo
+None,,Data,Anomaly Detection,Frank DAvanzo
+None,,Data,Time series forecasting,Frank DAvanzo
+None,,Data,Tableau,Frank DAvanzo
+None,,Data,Business Objects,Eduardo Xavier
+None,,Data,Javascript visualization (eg. d3js),Eduardo Xavier
+None,,Data,PowerBI,Eduardo Xavier
+None,,Data,Looker,Eduardo Xavier
+None,,Data,Microstrategy,Eduardo Xavier
+None,,Data,Anomaly Detection,Eduardo Xavier
+None,,Data,Time series forecasting,Eduardo Xavier
+None,,Data,Qlik (View & Sense),Eduardo Xavier
+None,,Data,Business Objects,Alejandro Garcia De La Vega
+None,,Data,Javascript visualization (eg. d3js),Alejandro Garcia De La Vega
+None,,Data,Star schema modeling,Alejandro Garcia De La Vega
+2 - Some Familiarity,2,Data,PowerBI,Alejandro Garcia De La Vega
+None,,Data,Looker,Alejandro Garcia De La Vega
+None,,Data,Microstrategy,Alejandro Garcia De La Vega
+3 - Comfortable,3,Data,Anomaly Detection,Alejandro Garcia De La Vega
+None,,Data,Quicksight,Alejandro Garcia De La Vega
+2 - Some Familiarity,2,Data,Tableau,Alejandro Garcia De La Vega
+None,,Data,Business Objects,Manju Malateshappa
+None,,Data,Javascript visualization (eg. d3js),Manju Malateshappa
+None,,Data,Star schema modeling,Manju Malateshappa
+None,,Data,PowerBI,Manju Malateshappa
+None,,Data,Microstrategy,Manju Malateshappa
+None,,Data,Quicksight,Manju Malateshappa
+None,,Data,Tableau,Manju Malateshappa
+None,,Data,Qlik (View & Sense),Manju Malateshappa
+None,,Data,Business Objects,Seima S
+None,,Data,Javascript visualization (eg. d3js),Seima S
+None,,Data,Star schema modeling,Seima S
+None,,Data,PowerBI,Seima S
+None,,Data,Looker,Seima S
+None,,Data,Microstrategy,Seima S
+None,,Data,Anomaly Detection,Seima S
+None,,Data,Time series forecasting,Seima S
+None,,Data,Quicksight,Seima S
+None,,Data,Tableau,Seima S
+None,,Data,Qlik (View & Sense),Seima S
+3 - Comfortable,3,Data,Business Objects,Nader Khoshroo
+1 - Limited Exposure,1,Data,Javascript visualization (eg. d3js),Nader Khoshroo
+3 - Comfortable,3,Data,PowerBI,Nader Khoshroo
+3 - Comfortable,3,Data,Microstrategy,Nader Khoshroo
+3 - Comfortable,3,Data,Tableau,Nader Khoshroo
+None,,Data,Business Objects,Tiago Melo
+None,,Data,Javascript visualization (eg. d3js),Tiago Melo
+None,,Data,Star schema modeling,Tiago Melo
+None,,Data,PowerBI,Tiago Melo
+None,,Data,Looker,Tiago Melo
+None,,Data,Microstrategy,Tiago Melo
+None,,Data,Anomaly Detection,Tiago Melo
+None,,Data,Time series forecasting,Tiago Melo
+None,,Data,Quicksight,Tiago Melo
+None,,Data,Tableau,Tiago Melo
+None,,Data,Qlik (View & Sense),Tiago Melo
+None,,Data,Business Objects,Gabriel Gonçalves
+None,,Data,Javascript visualization (eg. d3js),Gabriel Gonçalves
+None,,Data,PowerBI,Gabriel Gonçalves
+None,,Data,Looker,Gabriel Gonçalves
+None,,Data,Microstrategy,Gabriel Gonçalves
+None,,Data,Anomaly Detection,Gabriel Gonçalves
+None,,Data,Time series forecasting,Gabriel Gonçalves
+1 - Limited Exposure,1,Data,Tableau,Gabriel Gonçalves
+None,,Data,Qlik (View & Sense),Gabriel Gonçalves
+None,,Data,Business Objects,Lucas Dalecio De Paula
+None,,Data,Javascript visualization (eg. d3js),Lucas Dalecio De Paula
+3 - Comfortable,3,Data,Star schema modeling,Lucas Dalecio De Paula
+2 - Some Familiarity,2,Data,PowerBI,Lucas Dalecio De Paula
+None,,Data,Looker,Lucas Dalecio De Paula
+None,,Data,Microstrategy,Lucas Dalecio De Paula
+None,,Data,Anomaly Detection,Lucas Dalecio De Paula
+None,,Data,Time series forecasting,Lucas Dalecio De Paula
+3 - Comfortable,3,Data,Quicksight,Lucas Dalecio De Paula
+3 - Comfortable,3,Data,Tableau,Lucas Dalecio De Paula
+None,,Data,Qlik (View & Sense),Lucas Dalecio De Paula
+None,,Data,Business Objects,Ashim Basak
+None,,Data,Javascript visualization (eg. d3js),Ashim Basak
+None,,Data,Star schema modeling,Ashim Basak
+None,,Data,PowerBI,Ashim Basak
+None,,Data,Looker,Ashim Basak
+None,,Data,Microstrategy,Ashim Basak
+None,,Data,Anomaly Detection,Ashim Basak
+None,,Data,Time series forecasting,Ashim Basak
+None,,Data,Quicksight,Ashim Basak
+None,,Data,Tableau,Ashim Basak
+None,,Data,Qlik (View & Sense),Ashim Basak
+None,,Data,Business Objects,Gabriel Medeiros
+None,,Data,PowerBI,Gabriel Medeiros
+None,,Data,Looker,Gabriel Medeiros
+None,,Data,Microstrategy,Gabriel Medeiros
+None,,Data,Anomaly Detection,Gabriel Medeiros
+None,,Data,Time series forecasting,Gabriel Medeiros
+None,,Data,Tableau,Gabriel Medeiros
+None,,Data,Qlik (View & Sense),Gabriel Medeiros
+None,,Data,Business Objects,Marcus Sodre
+None,,Data,Javascript visualization (eg. d3js),Marcus Sodre
+3 - Comfortable,3,Data,Star schema modeling,Marcus Sodre
+2 - Some Familiarity,2,Data,PowerBI,Marcus Sodre
+None,,Data,Looker,Marcus Sodre
+None,,Data,Microstrategy,Marcus Sodre
+None,,Data,Anomaly Detection,Marcus Sodre
+None,,Data,Time series forecasting,Marcus Sodre
+None,,Data,Quicksight,Marcus Sodre
+None,,Data,Tableau,Marcus Sodre
+None,,Data,Qlik (View & Sense),Marcus Sodre
+None,,Data,Business Objects,Thiago Ferreira
+None,,Data,Javascript visualization (eg. d3js),Thiago Ferreira
+None,,Data,Star schema modeling,Thiago Ferreira
+3 - Comfortable,3,Data,PowerBI,Thiago Ferreira
+None,,Data,Looker,Thiago Ferreira
+None,,Data,Microstrategy,Thiago Ferreira
+None,,Data,Anomaly Detection,Thiago Ferreira
+None,,Data,Time series forecasting,Thiago Ferreira
+None,,Data,Quicksight,Thiago Ferreira
+2 - Some Familiarity,2,Data,Tableau,Thiago Ferreira
+None,,Data,Qlik (View & Sense),Thiago Ferreira
+None,,Data,Business Objects,Vinicius Bighetti
+None,,Data,Javascript visualization (eg. d3js),Vinicius Bighetti
+None,,Data,Star schema modeling,Vinicius Bighetti
+None,,Data,PowerBI,Vinicius Bighetti
+None,,Data,Looker,Vinicius Bighetti
+None,,Data,Microstrategy,Vinicius Bighetti
+None,,Data,Anomaly Detection,Vinicius Bighetti
+None,,Data,Time series forecasting,Vinicius Bighetti
+None,,Data,Quicksight,Vinicius Bighetti
+None,,Data,Tableau,Vinicius Bighetti
+None,,Data,Qlik (View & Sense),Vinicius Bighetti
+None,,Data,Business Objects,Cesar Oliart
+None,,Data,Javascript visualization (eg. d3js),Cesar Oliart
+None,,Data,Star schema modeling,Cesar Oliart
+None,,Data,PowerBI,Cesar Oliart
+None,,Data,Looker,Cesar Oliart
+None,,Data,Microstrategy,Cesar Oliart
+None,,Data,Anomaly Detection,Cesar Oliart
+None,,Data,Time series forecasting,Cesar Oliart
+4 - Strong,4,Data,Quicksight,Cesar Oliart
+None,,Data,Tableau,Cesar Oliart
+None,,Data,Qlik (View & Sense),Cesar Oliart
+None,,Data,Business Objects,Raul Pontello
+None,,Data,Javascript visualization (eg. d3js),Raul Pontello
+4 - Strong,4,Data,Star schema modeling,Raul Pontello
+4 - Strong,4,Data,PowerBI,Raul Pontello
+None,,Data,Looker,Raul Pontello
+None,,Data,Microstrategy,Raul Pontello
+None,,Data,Anomaly Detection,Raul Pontello
+None,,Data,Time series forecasting,Raul Pontello
+3 - Comfortable,3,Data,Quicksight,Raul Pontello
+None,,Data,Tableau,Raul Pontello
+None,,Data,Qlik (View & Sense),Raul Pontello
+None,,Data,Business Objects,Chris Greaves
+None,,Data,Javascript visualization (eg. d3js),Chris Greaves
+None,,Data,Star schema modeling,Chris Greaves
+None,,Data,PowerBI,Chris Greaves
+None,,Data,Looker,Chris Greaves
+None,,Data,Microstrategy,Chris Greaves
+None,,Data,Anomaly Detection,Chris Greaves
+None,,Data,Time series forecasting,Chris Greaves
+None,,Data,Quicksight,Chris Greaves
+None,,Data,Tableau,Chris Greaves
+None,,Data,Qlik (View & Sense),Chris Greaves
+None,,Data,Business Objects,Ronald Gahm
+None,,Data,Javascript visualization (eg. d3js),Ronald Gahm
+None,,Data,Star schema modeling,Ronald Gahm
+None,,Data,PowerBI,Ronald Gahm
+None,,Data,Looker,Ronald Gahm
+None,,Data,Microstrategy,Ronald Gahm
+None,,Data,Anomaly Detection,Ronald Gahm
+None,,Data,Time series forecasting,Ronald Gahm
+None,,Data,Quicksight,Ronald Gahm
+None,,Data,Tableau,Ronald Gahm
+None,,Data,Qlik (View & Sense),Ronald Gahm
+None,,Data,Business Objects,Tyler Busby
+None,,Data,Javascript visualization (eg. d3js),Tyler Busby
+None,,Data,Star schema modeling,Tyler Busby
+None,,Data,PowerBI,Tyler Busby
+None,,Data,Looker,Tyler Busby
+None,,Data,Microstrategy,Tyler Busby
+None,,Data,Anomaly Detection,Tyler Busby
+None,,Data,Time series forecasting,Tyler Busby
+None,,Data,Quicksight,Tyler Busby
+None,,Data,Tableau,Tyler Busby
+None,,Data,Qlik (View & Sense),Tyler Busby
+None,,Data,Business Objects,Dhamanjit Sehdev
+None,,Data,Javascript visualization (eg. d3js),Dhamanjit Sehdev
+None,,Data,Star schema modeling,Dhamanjit Sehdev
+None,,Data,PowerBI,Dhamanjit Sehdev
+None,,Data,Looker,Dhamanjit Sehdev
+None,,Data,Microstrategy,Dhamanjit Sehdev
+None,,Data,Anomaly Detection,Dhamanjit Sehdev
+None,,Data,Time series forecasting,Dhamanjit Sehdev
+None,,Data,Quicksight,Dhamanjit Sehdev
+None,,Data,Tableau,Dhamanjit Sehdev
+None,,Data,Qlik (View & Sense),Dhamanjit Sehdev
+None,,Data,Business Objects,Weiru Chen
+None,,Data,Javascript visualization (eg. d3js),Weiru Chen
+None,,Data,Star schema modeling,Weiru Chen
+3 - Comfortable,3,Data,PowerBI,Weiru Chen
+None,,Data,Looker,Weiru Chen
+2 - Some Familiarity,2,Data,Microstrategy,Weiru Chen
+None,,Data,Anomaly Detection,Weiru Chen
+None,,Data,Time series forecasting,Weiru Chen
+3 - Comfortable,3,Data,Quicksight,Weiru Chen
+3 - Comfortable,3,Data,Tableau,Weiru Chen
+None,,Data,Qlik (View & Sense),Weiru Chen
+None,,Data,Business Objects,Parsa Morsal
+None,,Data,Javascript visualization (eg. d3js),Parsa Morsal
+None,,Data,Star schema modeling,Parsa Morsal
+1 - Limited Exposure,1,Data,PowerBI,Parsa Morsal
+None,,Data,Looker,Parsa Morsal
+None,,Data,Microstrategy,Parsa Morsal
+2 - Some Familiarity,2,Data,Anomaly Detection,Parsa Morsal
+3 - Comfortable,3,Data,Time series forecasting,Parsa Morsal
+None,,Data,Quicksight,Parsa Morsal
+1 - Limited Exposure,1,Data,Tableau,Parsa Morsal
+None,,Data,Qlik (View & Sense),Parsa Morsal
+None,,Data,Business Objects,Ananth Tirumanur
+None,,Data,Javascript visualization (eg. d3js),Ananth Tirumanur
+3 - Comfortable,3,Data,Star schema modeling,Ananth Tirumanur
+1 - Limited Exposure,1,Data,PowerBI,Ananth Tirumanur
+None,,Data,Looker,Ananth Tirumanur
+None,,Data,Microstrategy,Ananth Tirumanur
+None,,Data,Anomaly Detection,Ananth Tirumanur
+None,,Data,Time series forecasting,Ananth Tirumanur
+2 - Some Familiarity,2,Data,Quicksight,Ananth Tirumanur
+2 - Some Familiarity,2,Data,Tableau,Ananth Tirumanur
+None,,Data,Qlik (View & Sense),Ananth Tirumanur
+None,,Data,Business Objects,Thiago Dias
+None,,Data,Javascript visualization (eg. d3js),Thiago Dias
+3 - Comfortable,3,Data,Star schema modeling,Thiago Dias
+2 - Some Familiarity,2,Data,PowerBI,Thiago Dias
+None,,Data,Looker,Thiago Dias
+None,,Data,Microstrategy,Thiago Dias
+None,,Data,Anomaly Detection,Thiago Dias
+None,,Data,Time series forecasting,Thiago Dias
+None,,Data,Quicksight,Thiago Dias
+None,,Data,Tableau,Thiago Dias
+None,,Data,Qlik (View & Sense),Thiago Dias
+None,,Data,Business Objects,Tomer Sharon
+None,,Data,Javascript visualization (eg. d3js),Tomer Sharon
+5 - Expert,5,Data,Star schema modeling,Tomer Sharon
+None,,Data,PowerBI,Tomer Sharon
+None,,Data,Looker,Tomer Sharon
+None,,Data,Microstrategy,Tomer Sharon
+None,,Data,Anomaly Detection,Tomer Sharon
+None,,Data,Time series forecasting,Tomer Sharon
+3 - Comfortable,3,Data,Quicksight,Tomer Sharon
+3 - Comfortable,3,Data,Tableau,Tomer Sharon
+2 - Some Familiarity,2,Data,Qlik (View & Sense),Tomer Sharon
+None,,Data,Business Objects,Vishwasagar Rajendra Reddy
+None,,Data,Javascript visualization (eg. d3js),Vishwasagar Rajendra Reddy
+4 - Strong,4,Data,Star schema modeling,Vishwasagar Rajendra Reddy
+5 - Expert,5,Data,PowerBI,Vishwasagar Rajendra Reddy
+None,,Data,Looker,Vishwasagar Rajendra Reddy
+None,,Data,Microstrategy,Vishwasagar Rajendra Reddy
+1 - Limited Exposure,1,Data,Anomaly Detection,Vishwasagar Rajendra Reddy
+None,,Data,Time series forecasting,Vishwasagar Rajendra Reddy
+None,,Data,Quicksight,Vishwasagar Rajendra Reddy
+4 - Strong,4,Data,Tableau,Vishwasagar Rajendra Reddy
+None,,Data,Qlik (View & Sense),Vishwasagar Rajendra Reddy
+None,,Data,Business Objects,Dante Míngolo
+None,,Data,Javascript visualization (eg. d3js),Dante Míngolo
+None,,Data,Star schema modeling,Dante Míngolo
+None,,Data,PowerBI,Dante Míngolo
+None,,Data,Looker,Dante Míngolo
+None,,Data,Microstrategy,Dante Míngolo
+None,,Data,Anomaly Detection,Dante Míngolo
+None,,Data,Time series forecasting,Dante Míngolo
+None,,Data,Quicksight,Dante Míngolo
+None,,Data,Tableau,Dante Míngolo
+None,,Data,Qlik (View & Sense),Dante Míngolo
+None,,Data,Business Objects,Marco Barbosa
+None,,Data,Javascript visualization (eg. d3js),Marco Barbosa
+3 - Comfortable,3,Data,Star schema modeling,Marco Barbosa
+3 - Comfortable,3,Data,PowerBI,Marco Barbosa
+1 - Limited Exposure,1,Data,Looker,Marco Barbosa
+2 - Some Familiarity,2,Data,Microstrategy,Marco Barbosa
+3 - Comfortable,3,Data,Anomaly Detection,Marco Barbosa
+4 - Strong,4,Data,Time series forecasting,Marco Barbosa
+1 - Limited Exposure,1,Data,Quicksight,Marco Barbosa
+3 - Comfortable,3,Data,Tableau,Marco Barbosa
+1 - Limited Exposure,1,Data,Qlik (View & Sense),Marco Barbosa
+None,,Data,Business Objects,Jonathan Gonsalves
+None,,Data,Javascript visualization (eg. d3js),Jonathan Gonsalves
+None,,Data,Star schema modeling,Jonathan Gonsalves
+None,,Data,PowerBI,Jonathan Gonsalves
+None,,Data,Looker,Jonathan Gonsalves
+None,,Data,Microstrategy,Jonathan Gonsalves
+None,,Data,Anomaly Detection,Jonathan Gonsalves
+None,,Data,Time series forecasting,Jonathan Gonsalves
+None,,Data,Quicksight,Jonathan Gonsalves
+None,,Data,Tableau,Jonathan Gonsalves
+None,,Data,Qlik (View & Sense),Jonathan Gonsalves
+None,,Data,Business Objects,Paolo Rampazzo
+None,,Data,Javascript visualization (eg. d3js),Paolo Rampazzo
+5 - Expert,5,Data,Star schema modeling,Paolo Rampazzo
+None,,Data,PowerBI,Paolo Rampazzo
+None,,Data,Looker,Paolo Rampazzo
+None,,Data,Microstrategy,Paolo Rampazzo
+3 - Comfortable,3,Data,Anomaly Detection,Paolo Rampazzo
+None,,Data,Time series forecasting,Paolo Rampazzo
+None,,Data,Quicksight,Paolo Rampazzo
+None,,Data,Tableau,Paolo Rampazzo
+None,,Data,Qlik (View & Sense),Paolo Rampazzo
+None,,Data,Business Objects,Lucas Zillig
+2 - Some Familiarity,2,Data,Javascript visualization (eg. d3js),Lucas Zillig
+3 - Comfortable,3,Data,Star schema modeling,Lucas Zillig
+None,,Data,PowerBI,Lucas Zillig
+None,,Data,Looker,Lucas Zillig
+None,,Data,Microstrategy,Lucas Zillig
+2 - Some Familiarity,2,Data,Anomaly Detection,Lucas Zillig
+3 - Comfortable,3,Data,Time series forecasting,Lucas Zillig
+3 - Comfortable,3,Data,Quicksight,Lucas Zillig
+3 - Comfortable,3,Data,Tableau,Lucas Zillig
+None,,Data,Qlik (View & Sense),Lucas Zillig
+None,,Data,Business Objects,Bernardo Cerqueira de Lima
+None,,Data,Javascript visualization (eg. d3js),Bernardo Cerqueira de Lima
+2 - Some Familiarity,2,Data,Star schema modeling,Bernardo Cerqueira de Lima
+1 - Limited Exposure,1,Data,PowerBI,Bernardo Cerqueira de Lima
+None,,Data,Looker,Bernardo Cerqueira de Lima
+None,,Data,Microstrategy,Bernardo Cerqueira de Lima
+3 - Comfortable,3,Data,Anomaly Detection,Bernardo Cerqueira de Lima
+3 - Comfortable,3,Data,Time series forecasting,Bernardo Cerqueira de Lima
+None,,Data,Quicksight,Bernardo Cerqueira de Lima
+None,,Data,Tableau,Bernardo Cerqueira de Lima
+None,,Data,Qlik (View & Sense),Bernardo Cerqueira de Lima
+1 - Limited Exposure,1,Data,Business Objects,Gabrielle Gomes
+1 - Limited Exposure,1,Data,Javascript visualization (eg. d3js),Gabrielle Gomes
+3 - Comfortable,3,Data,Star schema modeling,Gabrielle Gomes
+4 - Strong,4,Data,PowerBI,Gabrielle Gomes
+2 - Some Familiarity,2,Data,Looker,Gabrielle Gomes
+2 - Some Familiarity,2,Data,Microstrategy,Gabrielle Gomes
+None,,Data,Anomaly Detection,Gabrielle Gomes
+None,,Data,Time series forecasting,Gabrielle Gomes
+3 - Comfortable,3,Data,Quicksight,Gabrielle Gomes
+None,,Data,Tableau,Gabrielle Gomes
+None,,Data,Qlik (View & Sense),Gabrielle Gomes
+None,,Data,Business Objects,Ahmed Abunada
+None,,Data,Javascript visualization (eg. d3js),Ahmed Abunada
+None,,Data,Star schema modeling,Ahmed Abunada
+None,,Data,PowerBI,Ahmed Abunada
+None,,Data,Looker,Ahmed Abunada
+None,,Data,Microstrategy,Ahmed Abunada
+None,,Data,Anomaly Detection,Ahmed Abunada
+4 - Strong,4,Data,Time series forecasting,Ahmed Abunada
+None,,Data,Quicksight,Ahmed Abunada
+None,,Data,Tableau,Ahmed Abunada
+None,,Data,Qlik (View & Sense),Ahmed Abunada
+None,,Data,Business Objects,Dmytro Rusanov
+None,,Data,Javascript visualization (eg. d3js),Dmytro Rusanov
+None,,Data,Star schema modeling,Dmytro Rusanov
+None,,Data,PowerBI,Dmytro Rusanov
+None,,Data,Looker,Dmytro Rusanov
+None,,Data,Microstrategy,Dmytro Rusanov
+4 - Strong,4,Data,Anomaly Detection,Dmytro Rusanov
+5 - Expert,5,Data,Time series forecasting,Dmytro Rusanov
+None,,Data,Quicksight,Dmytro Rusanov
+None,,Data,Tableau,Dmytro Rusanov
+None,,Data,Qlik (View & Sense),Dmytro Rusanov
+None,,Data,Business Objects,Cristian Carballo
+None,,Data,Javascript visualization (eg. d3js),Cristian Carballo
+1 - Limited Exposure,1,Data,Star schema modeling,Cristian Carballo
+2 - Some Familiarity,2,Data,PowerBI,Cristian Carballo
+None,,Data,Looker,Cristian Carballo
+None,,Data,Microstrategy,Cristian Carballo
+None,,Data,Anomaly Detection,Cristian Carballo
+None,,Data,Time series forecasting,Cristian Carballo
+2 - Some Familiarity,2,Data,Quicksight,Cristian Carballo
+None,,Data,Tableau,Cristian Carballo
+None,,Data,Qlik (View & Sense),Cristian Carballo
+None,,Data,Business Objects,Rodolfo Rodriguez
+None,,Data,Javascript visualization (eg. d3js),Rodolfo Rodriguez
+3 - Comfortable,3,Data,Star schema modeling,Rodolfo Rodriguez
+None,,Data,PowerBI,Rodolfo Rodriguez
+None,,Data,Looker,Rodolfo Rodriguez
+None,,Data,Microstrategy,Rodolfo Rodriguez
+None,,Data,Anomaly Detection,Rodolfo Rodriguez
+None,,Data,Time series forecasting,Rodolfo Rodriguez
+4 - Strong,4,Data,Quicksight,Rodolfo Rodriguez
+1 - Limited Exposure,1,Data,Tableau,Rodolfo Rodriguez
+3 - Comfortable,3,Data,Qlik (View & Sense),Rodolfo Rodriguez
+None,,Data,Business Objects,Husain Lokhandwala
+None,,Data,Javascript visualization (eg. d3js),Husain Lokhandwala
+4 - Strong,4,Data,Star schema modeling,Husain Lokhandwala
+None,,Data,PowerBI,Husain Lokhandwala
+1 - Limited Exposure,1,Data,Looker,Husain Lokhandwala
+None,,Data,Microstrategy,Husain Lokhandwala
+2 - Some Familiarity,2,Data,Anomaly Detection,Husain Lokhandwala
+3 - Comfortable,3,Data,Time series forecasting,Husain Lokhandwala
+3 - Comfortable,3,Data,Quicksight,Husain Lokhandwala
+3 - Comfortable,3,Data,Tableau,Husain Lokhandwala
+None,,Data,Qlik (View & Sense),Husain Lokhandwala
+None,,Data,Business Objects,Iman Rahgozar
+None,,Data,Javascript visualization (eg. d3js),Iman Rahgozar
+1 - Limited Exposure,1,Data,Star schema modeling,Iman Rahgozar
+4 - Strong,4,Data,PowerBI,Iman Rahgozar
+None,,Data,Looker,Iman Rahgozar
+None,,Data,Microstrategy,Iman Rahgozar
+4 - Strong,4,Data,Anomaly Detection,Iman Rahgozar
+None,,Data,Time series forecasting,Iman Rahgozar
+None,,Data,Quicksight,Iman Rahgozar
+None,,Data,Tableau,Iman Rahgozar
+None,,Data,Qlik (View & Sense),Iman Rahgozar
+3 - Comfortable,3,Data,Business Objects,Bret Haueter
+None,,Data,Javascript visualization (eg. d3js),Bret Haueter
+5 - Expert,5,Data,Star schema modeling,Bret Haueter
+2 - Some Familiarity,2,Data,PowerBI,Bret Haueter
+3 - Comfortable,3,Data,Looker,Bret Haueter
+3 - Comfortable,3,Data,Microstrategy,Bret Haueter
+None,,Data,Anomaly Detection,Bret Haueter
+None,,Data,Time series forecasting,Bret Haueter
+1 - Limited Exposure,1,Data,Quicksight,Bret Haueter
+3 - Comfortable,3,Data,Tableau,Bret Haueter
+None,,Data,Qlik (View & Sense),Bret Haueter
+None,,Data,Business Objects,Bruno Souza
+None,,Data,Javascript visualization (eg. d3js),Bruno Souza
+5 - Expert,5,Data,Star schema modeling,Bruno Souza
+3 - Comfortable,3,Data,PowerBI,Bruno Souza
+None,,Data,Looker,Bruno Souza
+None,,Data,Microstrategy,Bruno Souza
+None,,Data,Anomaly Detection,Bruno Souza
+None,,Data,Time series forecasting,Bruno Souza
+None,,Data,Quicksight,Bruno Souza
+None,,Data,Tableau,Bruno Souza
+None,,Data,Qlik (View & Sense),Bruno Souza
+None,,Data,Business Objects,Cristopher Torres
+None,,Data,Javascript visualization (eg. d3js),Cristopher Torres
+2 - Some Familiarity,2,Data,Star schema modeling,Cristopher Torres
+None,,Data,PowerBI,Cristopher Torres
+None,,Data,Looker,Cristopher Torres
+None,,Data,Microstrategy,Cristopher Torres
+None,,Data,Anomaly Detection,Cristopher Torres
+None,,Data,Time series forecasting,Cristopher Torres
+3 - Comfortable,3,Data,Quicksight,Cristopher Torres
+None,,Data,Tableau,Cristopher Torres
+None,,Data,Qlik (View & Sense),Cristopher Torres
+None,,Data,Business Objects,Derek Headley
+None,,Data,Javascript visualization (eg. d3js),Derek Headley
+None,,Data,Star schema modeling,Derek Headley
+None,,Data,PowerBI,Derek Headley
+None,,Data,Looker,Derek Headley
+None,,Data,Microstrategy,Derek Headley
+4 - Strong,4,Data,Anomaly Detection,Derek Headley
+3 - Comfortable,3,Data,Time series forecasting,Derek Headley
+None,,Data,Quicksight,Derek Headley
+None,,Data,Tableau,Derek Headley
+None,,Data,Qlik (View & Sense),Derek Headley
+None,,Data,Business Objects,Ivan Paz
+None,,Data,Javascript visualization (eg. d3js),Ivan Paz
+3 - Comfortable,3,Data,Star schema modeling,Ivan Paz
+1 - Limited Exposure,1,Data,PowerBI,Ivan Paz
+None,,Data,Looker,Ivan Paz
+None,,Data,Microstrategy,Ivan Paz
+None,,Data,Anomaly Detection,Ivan Paz
+None,,Data,Time series forecasting,Ivan Paz
+None,,Data,Quicksight,Ivan Paz
+None,,Data,Tableau,Ivan Paz
+None,,Data,Qlik (View & Sense),Ivan Paz
+None,,Data,Business Objects,Bill Ramos
+None,,Data,Javascript visualization (eg. d3js),Bill Ramos
+None,,Data,Star schema modeling,Bill Ramos
+None,,Data,PowerBI,Bill Ramos
+None,,Data,Looker,Bill Ramos
+None,,Data,Microstrategy,Bill Ramos
+None,,Data,Anomaly Detection,Bill Ramos
+None,,Data,Time series forecasting,Bill Ramos
+None,,Data,Quicksight,Bill Ramos
+None,,Data,Tableau,Bill Ramos
+None,,Data,Qlik (View & Sense),Bill Ramos
+None,,Data,Business Objects,Sara Memar
+None,,Data,Javascript visualization (eg. d3js),Sara Memar
+None,,Data,Star schema modeling,Sara Memar
+None,,Data,PowerBI,Sara Memar
+None,,Data,Looker,Sara Memar
+None,,Data,Microstrategy,Sara Memar
+None,,Data,Anomaly Detection,Sara Memar
+None,,Data,Time series forecasting,Sara Memar
+None,,Data,Quicksight,Sara Memar
+None,,Data,Tableau,Sara Memar
+None,,Data,Qlik (View & Sense),Sara Memar
+None,,Data,Business Objects,Rafael Cuesta
+None,,Data,Javascript visualization (eg. d3js),Rafael Cuesta
+3 - Comfortable,3,Data,Star schema modeling,Rafael Cuesta
+2 - Some Familiarity,2,Data,PowerBI,Rafael Cuesta
+None,,Data,Looker,Rafael Cuesta
+2 - Some Familiarity,2,Data,Microstrategy,Rafael Cuesta
+None,,Data,Anomaly Detection,Rafael Cuesta
+None,,Data,Time series forecasting,Rafael Cuesta
+2 - Some Familiarity,2,Data,Quicksight,Rafael Cuesta
+1 - Limited Exposure,1,Data,Tableau,Rafael Cuesta
+None,,Data,Qlik (View & Sense),Rafael Cuesta
+None,,Data,Business Objects,Paul Birulin
+None,,Data,Javascript visualization (eg. d3js),Paul Birulin
+None,,Data,Star schema modeling,Paul Birulin
+None,,Data,PowerBI,Paul Birulin
+None,,Data,Looker,Paul Birulin
+None,,Data,Microstrategy,Paul Birulin
+None,,Data,Anomaly Detection,Paul Birulin
+None,,Data,Time series forecasting,Paul Birulin
+None,,Data,Quicksight,Paul Birulin
+2 - Some Familiarity,2,Data,Tableau,Paul Birulin
+None,,Data,Qlik (View & Sense),Paul Birulin
+None,,Data,Business Objects,Felipe Lobato
+None,,Data,Javascript visualization (eg. d3js),Felipe Lobato
+1 - Limited Exposure,1,Data,Star schema modeling,Felipe Lobato
+1 - Limited Exposure,1,Data,PowerBI,Felipe Lobato
+None,,Data,Looker,Felipe Lobato
+None,,Data,Microstrategy,Felipe Lobato
+None,,Data,Anomaly Detection,Felipe Lobato
+None,,Data,Time series forecasting,Felipe Lobato
+None,,Data,Quicksight,Felipe Lobato
+2 - Some Familiarity,2,Data,Tableau,Felipe Lobato
+None,,Data,Qlik (View & Sense),Felipe Lobato
+None,,Data,Business Objects,Raj Samuel
+None,,Data,Javascript visualization (eg. d3js),Raj Samuel
+None,,Data,PowerBI,Raj Samuel
+None,,Data,Looker,Raj Samuel
+None,,Data,Microstrategy,Raj Samuel
+None,,Data,Anomaly Detection,Raj Samuel
+None,,Data,Time series forecasting,Raj Samuel
+None,,Data,Quicksight,Raj Samuel
+None,,Data,Qlik (View & Sense),Raj Samuel
+None,,Data,Business Objects,Chad Stieve
+None,,Data,Javascript visualization (eg. d3js),Chad Stieve
+None,,Data,Star schema modeling,Chad Stieve
+None,,Data,PowerBI,Chad Stieve
+None,,Data,Looker,Chad Stieve
+None,,Data,Microstrategy,Chad Stieve
+None,,Data,Anomaly Detection,Chad Stieve
+None,,Data,Time series forecasting,Chad Stieve
+None,,Data,Quicksight,Chad Stieve
+None,,Data,Tableau,Chad Stieve
+None,,Data,Qlik (View & Sense),Chad Stieve
+None,,Data,Microstrategy,Ryan Gross
+None,,Data,Business Objects,Anat Fraenkel
+None,,Data,Javascript visualization (eg. d3js),Anat Fraenkel
+None,,Data,Star schema modeling,Anat Fraenkel
+None,,Data,PowerBI,Anat Fraenkel
+None,,Data,Looker,Anat Fraenkel
+None,,Data,Microstrategy,Anat Fraenkel
+None,,Data,Anomaly Detection,Anat Fraenkel
+None,,Data,Time series forecasting,Anat Fraenkel
+None,,Data,Quicksight,Anat Fraenkel
+None,,Data,Tableau,Anat Fraenkel
+None,,Data,Qlik (View & Sense),Anat Fraenkel
+None,,Data,Business Objects,Hani Abdeen
+2 - Some Familiarity,2,Data,Javascript visualization (eg. d3js),Hani Abdeen
+None,,Data,Star schema modeling,Hani Abdeen
+None,,Data,PowerBI,Hani Abdeen
+None,,Data,Looker,Hani Abdeen
+None,,Data,Microstrategy,Hani Abdeen
+2 - Some Familiarity,2,Data,Anomaly Detection,Hani Abdeen
+2 - Some Familiarity,2,Data,Time series forecasting,Hani Abdeen
+None,,Data,Quicksight,Hani Abdeen
+None,,Data,Tableau,Hani Abdeen
+None,,Data,Qlik (View & Sense),Hani Abdeen
+None,,Data,Business Objects,Ned Lazarevic
+None,,Data,Javascript visualization (eg. d3js),Ned Lazarevic
+None,,Data,Star schema modeling,Ned Lazarevic
+None,,Data,PowerBI,Ned Lazarevic
+None,,Data,Looker,Ned Lazarevic
+None,,Data,Microstrategy,Ned Lazarevic
+None,,Data,Anomaly Detection,Ned Lazarevic
+None,,Data,Time series forecasting,Ned Lazarevic
+None,,Data,Quicksight,Ned Lazarevic
+None,,Data,Tableau,Ned Lazarevic
+None,,Data,Qlik (View & Sense),Ned Lazarevic
+None,,Data,Business Objects,Vignesh Vaidyanathan
+None,,Data,Javascript visualization (eg. d3js),Vignesh Vaidyanathan
+3 - Comfortable,3,Data,Star schema modeling,Vignesh Vaidyanathan
+2 - Some Familiarity,2,Data,PowerBI,Vignesh Vaidyanathan
+None,,Data,Looker,Vignesh Vaidyanathan
+None,,Data,Microstrategy,Vignesh Vaidyanathan
+None,,Data,Anomaly Detection,Vignesh Vaidyanathan
+None,,Data,Time series forecasting,Vignesh Vaidyanathan
+None,,Data,Quicksight,Vignesh Vaidyanathan
+None,,Data,Tableau,Vignesh Vaidyanathan
+None,,Data,Qlik (View & Sense),Vignesh Vaidyanathan
+None,,Data,Business Objects,Gus Leonato
+None,,Data,Javascript visualization (eg. d3js),Gus Leonato
+4 - Strong,4,Data,Star schema modeling,Gus Leonato
+2 - Some Familiarity,2,Data,PowerBI,Gus Leonato
+None,,Data,Looker,Gus Leonato
+None,,Data,Microstrategy,Gus Leonato
+1 - Limited Exposure,1,Data,Anomaly Detection,Gus Leonato
+None,,Data,Time series forecasting,Gus Leonato
+2 - Some Familiarity,2,Data,Quicksight,Gus Leonato
+2 - Some Familiarity,2,Data,Tableau,Gus Leonato
+None,,Data,Qlik (View & Sense),Gus Leonato
+None,,Data,Business Objects,Carolina Carvalho Dantas De Castro
+None,,Data,Javascript visualization (eg. d3js),Carolina Carvalho Dantas De Castro
+None,,Data,PowerBI,Carolina Carvalho Dantas De Castro
+None,,Data,Looker,Carolina Carvalho Dantas De Castro
+None,,Data,Microstrategy,Carolina Carvalho Dantas De Castro
+None,,Data,Anomaly Detection,Carolina Carvalho Dantas De Castro
+None,,Data,Time series forecasting,Carolina Carvalho Dantas De Castro
+None,,Data,Tableau,Carolina Carvalho Dantas De Castro
+None,,Data,Qlik (View & Sense),Carolina Carvalho Dantas De Castro
+None,,Data,Business Objects,Keith Cutler
+None,,Data,Javascript visualization (eg. d3js),Keith Cutler
+2 - Some Familiarity,2,Data,Star schema modeling,Keith Cutler
+None,,Data,PowerBI,Keith Cutler
+None,,Data,Looker,Keith Cutler
+None,,Data,Microstrategy,Keith Cutler
+None,,Data,Anomaly Detection,Keith Cutler
+None,,Data,Time series forecasting,Keith Cutler
+None,,Data,Quicksight,Keith Cutler
+None,,Data,Tableau,Keith Cutler
+None,,Data,Qlik (View & Sense),Keith Cutler
+None,,Data,Business Objects,Morteza Behbooei
+None,,Data,Javascript visualization (eg. d3js),Morteza Behbooei
+None,,Data,Star schema modeling,Morteza Behbooei
+4 - Strong,4,Data,PowerBI,Morteza Behbooei
+None,,Data,Looker,Morteza Behbooei
+None,,Data,Microstrategy,Morteza Behbooei
+2 - Some Familiarity,2,Data,Anomaly Detection,Morteza Behbooei
+4 - Strong,4,Data,Time series forecasting,Morteza Behbooei
+1 - Limited Exposure,1,Data,Quicksight,Morteza Behbooei
+None,,Data,Tableau,Morteza Behbooei
+None,,Data,Qlik (View & Sense),Morteza Behbooei
+None,,Data,Business Objects,Fede Ferreyra
+None,,Data,Javascript visualization (eg. d3js),Fede Ferreyra
+4 - Strong,4,Data,Star schema modeling,Fede Ferreyra
+2 - Some Familiarity,2,Data,PowerBI,Fede Ferreyra
+None,,Data,Looker,Fede Ferreyra
+None,,Data,Microstrategy,Fede Ferreyra
+2 - Some Familiarity,2,Data,Anomaly Detection,Fede Ferreyra
+None,,Data,Time series forecasting,Fede Ferreyra
+4 - Strong,4,Data,Quicksight,Fede Ferreyra
+None,,Data,Tableau,Fede Ferreyra
+None,,Data,Qlik (View & Sense),Fede Ferreyra
+None,,Data,Business Objects,Tausif Ahmed
+None,,Data,Javascript visualization (eg. d3js),Tausif Ahmed
+None,,Data,Star schema modeling,Tausif Ahmed
+None,,Data,PowerBI,Tausif Ahmed
+None,,Data,Looker,Tausif Ahmed
+None,,Data,Microstrategy,Tausif Ahmed
+None,,Data,Anomaly Detection,Tausif Ahmed
+None,,Data,Time series forecasting,Tausif Ahmed
+None,,Data,Quicksight,Tausif Ahmed
+None,,Data,Tableau,Tausif Ahmed
+None,,Data,Qlik (View & Sense),Tausif Ahmed
+None,,Data,Business Objects,Antriksh Singh
+None,,Data,Javascript visualization (eg. d3js),Antriksh Singh
+None,,Data,Star schema modeling,Antriksh Singh
+3 - Comfortable,3,Data,PowerBI,Antriksh Singh
+None,,Data,Looker,Antriksh Singh
+None,,Data,Microstrategy,Antriksh Singh
+3 - Comfortable,3,Data,Anomaly Detection,Antriksh Singh
+None,,Data,Time series forecasting,Antriksh Singh
+2 - Some Familiarity,2,Data,Quicksight,Antriksh Singh
+2 - Some Familiarity,2,Data,Tableau,Antriksh Singh
+None,,Data,Qlik (View & Sense),Antriksh Singh
+None,,Data,Business Objects,James Mcclung
+None,,Data,Javascript visualization (eg. d3js),James Mcclung
+None,,Data,Star schema modeling,James Mcclung
+None,,Data,PowerBI,James Mcclung
+None,,Data,Looker,James Mcclung
+None,,Data,Microstrategy,James Mcclung
+None,,Data,Anomaly Detection,James Mcclung
+None,,Data,Time series forecasting,James Mcclung
+None,,Data,Quicksight,James Mcclung
+None,,Data,Tableau,James Mcclung
+None,,Data,Qlik (View & Sense),James Mcclung
+None,,Data,Business Objects,Varadraj Poojary
+None,,Data,Javascript visualization (eg. d3js),Varadraj Poojary
+None,,Data,Star schema modeling,Varadraj Poojary
+3 - Comfortable,3,Data,PowerBI,Varadraj Poojary
+None,,Data,Looker,Varadraj Poojary
+None,,Data,Microstrategy,Varadraj Poojary
+None,,Data,Anomaly Detection,Varadraj Poojary
+None,,Data,Time series forecasting,Varadraj Poojary
+None,,Data,Quicksight,Varadraj Poojary
+None,,Data,Tableau,Varadraj Poojary
+None,,Data,Qlik (View & Sense),Varadraj Poojary
+None,,Data,Business Objects,Md. Junaedur Rahman
+None,,Data,Javascript visualization (eg. d3js),Md. Junaedur Rahman
+None,,Data,Star schema modeling,Md. Junaedur Rahman
+None,,Data,PowerBI,Md. Junaedur Rahman
+None,,Data,Looker,Md. Junaedur Rahman
+None,,Data,Microstrategy,Md. Junaedur Rahman
+None,,Data,Anomaly Detection,Md. Junaedur Rahman
+None,,Data,Time series forecasting,Md. Junaedur Rahman
+None,,Data,Quicksight,Md. Junaedur Rahman
+None,,Data,Tableau,Md. Junaedur Rahman
+None,,Data,Qlik (View & Sense),Md. Junaedur Rahman
+None,,Data,Business Objects,Arthur Santos
+None,,Data,Javascript visualization (eg. d3js),Arthur Santos
+None,,Data,Star schema modeling,Arthur Santos
+None,,Data,PowerBI,Arthur Santos
+None,,Data,Looker,Arthur Santos
+None,,Data,Microstrategy,Arthur Santos
+None,,Data,Anomaly Detection,Arthur Santos
+None,,Data,Time series forecasting,Arthur Santos
+None,,Data,Quicksight,Arthur Santos
+None,,Data,Tableau,Arthur Santos
+None,,Data,Qlik (View & Sense),Arthur Santos
+None,,Data,Business Objects,Adriel Martins
+None,,Data,Javascript visualization (eg. d3js),Adriel Martins
+None,,Data,Star schema modeling,Adriel Martins
+None,,Data,PowerBI,Adriel Martins
+None,,Data,Looker,Adriel Martins
+None,,Data,Microstrategy,Adriel Martins
+None,,Data,Anomaly Detection,Adriel Martins
+None,,Data,Time series forecasting,Adriel Martins
+None,,Data,Quicksight,Adriel Martins
+None,,Data,Tableau,Adriel Martins
+None,,Data,Qlik (View & Sense),Adriel Martins

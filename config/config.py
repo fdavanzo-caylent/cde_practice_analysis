@@ -17,6 +17,7 @@ TEAM_MEMBER_REPORT_ID = '00OTP000002Ek6f2AC'
 CORE_SKILLS_PATH = 'data/core_skills.csv'
 SKILLS_RATINGS_PATH = 'data/skills_ratings.csv'
 CROSS_TRAINING_MAPPING_PATH = 'data/cross_training_mappings.csv'
+FILENAME_CROSS_TRAINING_CSV = 'data/cross_training_skills.csv'
 
 # report-specific filters
 FILTER_FOR_SKILL_LEVEL_ZERO = '0 - No Rating'
@@ -51,7 +52,6 @@ FILENAME_ISSUE_STRUCTURE_CSV = 'issue_structure/issue_structure_analysis.csv'
 FILENAME_ISSUE_STRUCTURE_CHART = 'issue_structure/issue_structure_analysis.png'
 FILENAME_TIME_IN_STATUS_CSV = 'time_analysis.csv'
 FILENAME_TIME_IN_STATUS_CHART = 'time_analysis_chart.png'
-FILENAME_CROSS_TRAINING_CSV = 'cross_training_skills.csv'
 
 OUTPUT_JIRA_ANALYSIS_FOLDER = 'output/jira_analysis/'
 OUTPUT_CROSS_TRAINING_INITIATIVE_FOLDER = 'output/cross_training_initiative/'
@@ -73,4 +73,11 @@ STATUS = {
     'IN_PROGRESS': 'In Progress',
     'DONE': 'Done',
     'CLOSED': 'Closed'
+}
+
+# Skill Weights
+SKILL_WEIGHTS_MAPPING = {
+    'High Priority': 1.5,
+    'Medium Priority': 1.2,
+    'Low Priority': 1.0,
 }

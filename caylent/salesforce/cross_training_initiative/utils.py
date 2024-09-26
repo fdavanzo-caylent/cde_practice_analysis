@@ -23,3 +23,11 @@ def get_skill_mappings(mappings_path, index):
     except Exception as e:
         logging.error("Error reading Mappings file: %s", e)
         raise
+
+# Function to check if an individual meets the minimum rating for required skills
+def meets_minimum_rating(row):
+    rating = row['Rating-Nbr']
+    min_rating = row['Minimum Rating for Pillar']
+    
+    # Check if the skill is a required skill for the pillar and if the rating is sufficient
+    return rating >= min_rating
